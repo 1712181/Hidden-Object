@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 65cc5c6fb10a6c34db38d3e29e83fec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7676016892667148616
+    second: Fujisaki Chihiro_0
+  - first:
+      213: -8725828870435665272
+    second: Fujisaki Chihiro_1
+  - first:
+      213: 6461827562340591247
+    second: Fujisaki Chihiro_2
+  - first:
+      213: -6092995078914381862
+    second: Fujisaki Chihiro_3
+  - first:
+      213: 2755160936725046775
+    second: Fujisaki Chihiro_4
+  - first:
+      213: -2258280739198835447
+    second: Fujisaki Chihiro_5
+  - first:
+      213: 7210575099616704101
+    second: Fujisaki Chihiro_6
+  - first:
+      213: 5784666528577597886
+    second: Fujisaki Chihiro_7
+  - first:
+      213: 6944369802408887475
+    second: Fujisaki Chihiro_8
+  - first:
+      213: -4060566268156273291
+    second: Fujisaki Chihiro_9
+  - first:
+      213: -1097280955038241255
+    second: Fujisaki Chihiro_10
+  - first:
+      213: -6460311263721304886
+    second: Fujisaki Chihiro_11
+  - first:
+      213: -39326252265326444
+    second: Fujisaki Chihiro_12
+  - first:
+      213: 4926172414254820286
+    second: Fujisaki Chihiro_13
+  - first:
+      213: 4047884804675324397
+    second: Fujisaki Chihiro_14
+  - first:
+      213: -8270396491982373300
+    second: Fujisaki Chihiro_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b251d1b0b68a60800000000000000
+      internalID: 7676016892667148616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a85deafd0a7e680800000000000000
+      internalID: -8725828870435665272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a3258ee50da950800000000000000
+      internalID: 6461827562340591247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ea1ff145517ba0800000000000000
+      internalID: -6092995078914381862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_4
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f56784464c4c3620800000000000000
+      internalID: 2755160936725046775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_5
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90562f0f1a9f8a0e0800000000000000
+      internalID: -2258280739198835447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_6
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663eee89db111460800000000000000
+      internalID: 7210575099616704101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_7
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 815
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b5fb2f83474050800000000000000
+      internalID: 5784666528577597886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4088dda8b5f5060800000000000000
+      internalID: 6944369802408887475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9c9f2e78f5a7c0800000000000000
+      internalID: -4060566268156273291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ee428f8cca5c0f0800000000000000
+      internalID: -1097280955038241255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_11
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acccf63422d5856a0800000000000000
+      internalID: -6460311263721304886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_12
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498b06f5bf8447ff0800000000000000
+      internalID: -39326252265326444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_13
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbacf5f5b74d5440800000000000000
+      internalID: 4926172414254820286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_14
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9cf5288c9fc2830800000000000000
+      internalID: 4047884804675324397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujisaki Chihiro_15
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 253
+        width: 309
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef0cf7536a93d80800000000000000
+      internalID: -8270396491982373300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

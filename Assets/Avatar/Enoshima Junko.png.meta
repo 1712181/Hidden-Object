@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 2384d67759f0e0645920dd5cb3e87331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7428014951347624306
+    second: Enoshima Junko_0
+  - first:
+      213: -3312725844159783894
+    second: Enoshima Junko_1
+  - first:
+      213: 4975028380923648091
+    second: Enoshima Junko_2
+  - first:
+      213: -3578651196175680966
+    second: Enoshima Junko_3
+  - first:
+      213: 8466178494689264060
+    second: Enoshima Junko_4
+  - first:
+      213: -936782660346346774
+    second: Enoshima Junko_5
+  - first:
+      213: 8481600727666176529
+    second: Enoshima Junko_6
+  - first:
+      213: -7322968982226500508
+    second: Enoshima Junko_7
+  - first:
+      213: -917470956273469769
+    second: Enoshima Junko_8
+  - first:
+      213: 1169771703165435303
+    second: Enoshima Junko_9
+  - first:
+      213: 3753573591568842915
+    second: Enoshima Junko_10
+  - first:
+      213: 6886903610879155745
+    second: Enoshima Junko_11
+  - first:
+      213: 4333523505416391485
+    second: Enoshima Junko_12
+  - first:
+      213: 2148131425235069309
+    second: Enoshima Junko_13
+  - first:
+      213: -1096825068090413284
+    second: Enoshima Junko_14
+  - first:
+      213: 1974515369923618213
+    second: Enoshima Junko_15
+  - first:
+      213: 3753798836917578046
+    second: Enoshima Junko_16
+  - first:
+      213: -4038087540793083845
+    second: Enoshima Junko_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enoshima Junko_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1718
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8662aec1c36ae890800000000000000
+      internalID: -7428014951347624306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_1
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1718
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c99947565d602d0800000000000000
+      internalID: -3312725844159783894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_2
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1718
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58d07024f9da0540800000000000000
+      internalID: 4975028380923648091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1146
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3afbe492b3165ec0800000000000000
+      internalID: -3578651196175680966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1140
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb141053c78ed7570800000000000000
+      internalID: 8466178494689264060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_5
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1146
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28f4a3221eff2f0800000000000000
+      internalID: -936782660346346774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112bc33ace2b4b570800000000000000
+      internalID: 8481600727666176529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_7
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648f2962869f5a90800000000000000
+      internalID: -7322968982226500508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_8
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f497b60d7443f0800000000000000
+      internalID: -917470956273469769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adba739a2ddb3010800000000000000
+      internalID: 1169771703165435303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1.5
+        width: 836.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08fb35b4f571430800000000000000
+      internalID: 3753573591568842915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enoshima Junko_11
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1.5
+        width: 836.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9ec08852339f50800000000000000
+      internalID: 6886903610879155745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

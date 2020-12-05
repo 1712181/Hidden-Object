@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 22fc2b4bab7e7644399e0d0b3420c6ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3471814002575460147
+    second: Fuwaka Touko_0
+  - first:
+      213: -8393486801281171365
+    second: Fuwaka Touko_1
+  - first:
+      213: -6727067456478935934
+    second: Fuwaka Touko_2
+  - first:
+      213: 8225338841367942031
+    second: Fuwaka Touko_3
+  - first:
+      213: -2491870936319415077
+    second: Fuwaka Touko_4
+  - first:
+      213: -1078477746446556728
+    second: Fuwaka Touko_5
+  - first:
+      213: -3564759037474944266
+    second: Fuwaka Touko_6
+  - first:
+      213: -7041493966255889291
+    second: Fuwaka Touko_7
+  - first:
+      213: 4846928247844355408
+    second: Fuwaka Touko_8
+  - first:
+      213: -4148260480610046012
+    second: Fuwaka Touko_9
+  - first:
+      213: 2949490049511963254
+    second: Fuwaka Touko_10
+  - first:
+      213: -486990314757928951
+    second: Fuwaka Touko_11
+  - first:
+      213: -587654611026406118
+    second: Fuwaka Touko_12
+  - first:
+      213: -7936608955143719117
+    second: Fuwaka Touko_13
+  - first:
+      213: -7936274960433066870
+    second: Fuwaka Touko_14
+  - first:
+      213: 5518714362964413550
+    second: Fuwaka Touko_15
+  - first:
+      213: -1237048027188231895
+    second: Fuwaka Touko_16
+  - first:
+      213: 2676598337163293431
+    second: Fuwaka Touko_17
+  - first:
+      213: -5631591262978580778
+    second: Fuwaka Touko_18
+  - first:
+      213: -4387920982698679215
+    second: Fuwaka Touko_19
+  - first:
+      213: -3175535018020059959
+    second: Fuwaka Touko_20
+  - first:
+      213: -5985145501610529620
+    second: Fuwaka Touko_21
+  - first:
+      213: 97642303991459538
+    second: Fuwaka Touko_22
+  - first:
+      213: -1691015932261977059
+    second: Fuwaka Touko_23
+  - first:
+      213: 8489170343883591959
+    second: Fuwaka Touko_24
+  - first:
+      213: 7071333263719406753
+    second: Fuwaka Touko_25
+  - first:
+      213: -6490819559630566834
+    second: Fuwaka Touko_26
+  - first:
+      213: 6643387925556121204
+    second: Fuwaka Touko_27
+  - first:
+      213: 5853854213228163905
+    second: Fuwaka Touko_28
+  - first:
+      213: 5032803857933864552
+    second: Fuwaka Touko_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fuwaka Touko_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4914
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc833422f83a1dfc0800000000000000
+      internalID: -3471814002575460147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4914
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c4be8938548b80800000000000000
+      internalID: -8393486801281171365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_2
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 4914
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848b743ac7a4a2a0800000000000000
+      internalID: -6727067456478935934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4368
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8395f4b816462270800000000000000
+      internalID: 8225338841367942031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 4368
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcaf8ef5981b6dd0800000000000000
+      internalID: -2491870936319415077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_5
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 4368
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1a3e0243a7801f0800000000000000
+      internalID: -1078477746446556728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3822
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4175da8e678ec0800000000000000
+      internalID: -3564759037474944266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3822
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e24d8b86974e90800000000000000
+      internalID: -7041493966255889291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_8
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3822
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db190bf8fb34340800000000000000
+      internalID: 4846928247844355408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3276
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf6271421b6e66c0800000000000000
+      internalID: -4148260480610046012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3276
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab5bda291bee820800000000000000
+      internalID: 2949490049511963254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_11
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3276
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084ccf83ecdd39f0800000000000000
+      internalID: -486990314757928951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2730
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15962bae3b38d7f0800000000000000
+      internalID: -587654611026406118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_13
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2730
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337797b84308bd190800000000000000
+      internalID: -7936608955143719117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_14
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2730
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4f8fb8ffacd190800000000000000
+      internalID: -7936274960433066870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2184
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c07554979669c40800000000000000
+      internalID: 5518714362964413550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2184
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92109599f5f15dee0800000000000000
+      internalID: -1237048027188231895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_17
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2184
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f405a100352520800000000000000
+      internalID: 2676598337163293431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1638
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded7f1759198d1b0800000000000000
+      internalID: -5631591262978580778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1638
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15423cb4d19fa13c0800000000000000
+      internalID: -4387920982698679215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_20
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1638
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c91fc9bb3ee3d0800000000000000
+      internalID: -3175535018020059959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1092
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2a7f70ed70fca0800000000000000
+      internalID: -5985145501610529620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_22
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1092
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de267c7825ea5100800000000000000
+      internalID: 97642303991459538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_23
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1092
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14bfff08fd4888e0800000000000000
+      internalID: -1691015932261977059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 546
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71156f043779fc570800000000000000
+      internalID: 8489170343883591959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 546
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1668432c622260800000000000000
+      internalID: 7071333263719406753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_26
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 546
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0017100afbe5a0800000000000000
+      internalID: -6490819559630566834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e44efbe1e023c50800000000000000
+      internalID: 6643387925556121204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 546
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143736254611d3150800000000000000
+      internalID: 5853854213228163905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuwaka Touko_29
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 0
+        width: 731.3333
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0d50a17c18d540800000000000000
+      internalID: 5032803857933864552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

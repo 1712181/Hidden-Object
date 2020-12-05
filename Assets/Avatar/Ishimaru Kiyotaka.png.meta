@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 2e4130be81b35c94d99df711bf1d1285
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6365766973490373236
+    second: Ishimaru Kiyotaka_0
+  - first:
+      213: 5803234506705797232
+    second: Ishimaru Kiyotaka_1
+  - first:
+      213: 3088455094082030052
+    second: Ishimaru Kiyotaka_2
+  - first:
+      213: 8327905261160370062
+    second: Ishimaru Kiyotaka_3
+  - first:
+      213: -875059775246185814
+    second: Ishimaru Kiyotaka_4
+  - first:
+      213: -2235671790538111689
+    second: Ishimaru Kiyotaka_5
+  - first:
+      213: 2844241305861408529
+    second: Ishimaru Kiyotaka_6
+  - first:
+      213: -3772733693636964397
+    second: Ishimaru Kiyotaka_7
+  - first:
+      213: -1525248072694594295
+    second: Ishimaru Kiyotaka_8
+  - first:
+      213: -9118418661359228639
+    second: Ishimaru Kiyotaka_9
+  - first:
+      213: 4283762366628103077
+    second: Ishimaru Kiyotaka_10
+  - first:
+      213: 103498523281260751
+    second: Ishimaru Kiyotaka_11
+  - first:
+      213: -1802157528805664772
+    second: Ishimaru Kiyotaka_12
+  - first:
+      213: 6743709104656632647
+    second: Ishimaru Kiyotaka_13
+  - first:
+      213: 6086863696205152295
+    second: Ishimaru Kiyotaka_14
+  - first:
+      213: 2551975554174259593
+    second: Ishimaru Kiyotaka_15
+  - first:
+      213: 952274562643430493
+    second: Ishimaru Kiyotaka_16
+  - first:
+      213: 9100483483159047349
+    second: Ishimaru Kiyotaka_17
+  - first:
+      213: -1879483279102228586
+    second: Ishimaru Kiyotaka_18
+  - first:
+      213: -7664765344018373319
+    second: Ishimaru Kiyotaka_19
+  - first:
+      213: 5350679433202345597
+    second: Ishimaru Kiyotaka_20
+  - first:
+      213: 544258738462593511
+    second: Ishimaru Kiyotaka_21
+  - first:
+      213: 4639977522465623460
+    second: Ishimaru Kiyotaka_22
+  - first:
+      213: 8129110082219607161
+    second: Ishimaru Kiyotaka_23
+  - first:
+      213: -6958246760815673263
+    second: Ishimaru Kiyotaka_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2858
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472aec9c55fb75850800000000000000
+      internalID: 6365766973490373236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2858
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700d78790b398050800000000000000
+      internalID: 5803234506705797232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_2
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2858
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e941837b856cda20800000000000000
+      internalID: 3088455094082030052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_3
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2858
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f029e36b9a29370800000000000000
+      internalID: 8327905261160370062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2287
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac73b45c92bd3f0800000000000000
+      internalID: -875059775246185814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_5
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2287
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7354d920a5c49f0e0800000000000000
+      internalID: -2235671790538111689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_6
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2287
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117cc53f566c87720800000000000000
+      internalID: 2844241305861408529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_7
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2287
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0f96c1be84abc0800000000000000
+      internalID: -3772733693636964397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90580b085fa35dae0800000000000000
+      internalID: -1525248072694594295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_9
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e368f98ed47180800000000000000
+      internalID: -9118418661359228639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_10
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a30e051d2bf27b30800000000000000
+      internalID: 4283762366628103077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_11
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc005facb53bf6100800000000000000
+      internalID: 103498523281260751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1153
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71e3a96437df6e0800000000000000
+      internalID: -1802157528805664772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_13
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1145
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b40a373b7769d50800000000000000
+      internalID: 6743709104656632647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1145
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72087883842e87450800000000000000
+      internalID: 6086863696205152295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_15
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1145
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981990ede307a6320800000000000000
+      internalID: 2551975554174259593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 589
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c800b5ba8273d00800000000000000
+      internalID: 952274562643430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_17
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2102f2896b4e70800000000000000
+      internalID: 9100483483159047349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69743d36aebbae5e0800000000000000
+      internalID: -1879483279102228586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_19
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 574
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356f0f778841a590800000000000000
+      internalID: -7664765344018373319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a30b689e614a40800000000000000
+      internalID: 5350679433202345597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_21
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e117f360789d8700800000000000000
+      internalID: 544258738462593511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4c5819f2846040800000000000000
+      internalID: 4639977522465623460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishimaru Kiyotaka_23
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 3
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740fb6cc8660d070800000000000000
+      internalID: 8129110082219607161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
