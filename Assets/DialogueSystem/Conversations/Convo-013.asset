@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed693e1d3af5e19458583c9e26965d42, type: 3}
+  m_Name: Convo-013
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Background c\xE1nh c\u1EEDa ph\xF2ng Naegi)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Maizono!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: The door...! It's unlocked!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed693e1d3af5e19458583c9e26965d42, type: 3}
+  m_Name: Convo-020
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Uh, I''m tired of waiting, so why don''t we get this show on the road?
+
+      It''s
+      time for the highly anticipated classroom trial!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: Now then, please enter the red door on the first floor in the school
+      area.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0

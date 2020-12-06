@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed693e1d3af5e19458583c9e26965d42, type: 3}
+  m_Name: Convo-021
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 0}
+    dialogue: 
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
+    dialogue: "Naegi, you're late! You kept everyone waiting!\r"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: H-He's afraid! S-Scared we'll prove that he's guilty.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
+    dialogue: 'You shouldn''t condemn him!
+
+      Wait until after the classroom
+      trial!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Ain't it obvious Naegi's the killer?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: '(Naegi''s thought)
+
+      When you get down to it, they think I did
+      it...
+
+      But Maizono and I both know that I wasn''t the one behind this!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Is everyone there?
+
+      That will carry you to the courtroom.
+
+      This
+      is the courtroom that''ll determine yer fates!
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'Are you scared?
+
+      You are the one who should solve the riddle
+      behind this case.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: Otherwise, I am certain that you will be unsatisfied with how it ends.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Video hi\u1EC7n c\u1EA3nh xu\u1ED1ng thang m\xE1y v\xE0o l\u1EDBp
+      h\u1ECDc ph\xE1n x\u1EED)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: '(Naegi''s thought)
+
+      And thus the curtain rises...
+
+      A life-or-death
+      trial...
+
+      Risking our lives to outwit each other, to betray each other...'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'Our lives hang on solving the riddle, pleading our cases, and trusting
+      one another...
+
+      Our lives are on the line...in the classroom trial!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
