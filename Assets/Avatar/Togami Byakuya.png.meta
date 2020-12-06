@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: c71e489a8890be543bc63e5023aac95b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3124615720722276319
+    second: Togami Byakuya_0
+  - first:
+      213: -5374589662987554526
+    second: Togami Byakuya_1
+  - first:
+      213: 8722000629645653953
+    second: Togami Byakuya_2
+  - first:
+      213: -1014735012475560488
+    second: Togami Byakuya_3
+  - first:
+      213: -3908191613346149901
+    second: Togami Byakuya_4
+  - first:
+      213: -2053700486824115535
+    second: Togami Byakuya_5
+  - first:
+      213: 8588796961484866569
+    second: Togami Byakuya_6
+  - first:
+      213: -4728148456462222268
+    second: Togami Byakuya_7
+  - first:
+      213: 7203569968323102942
+    second: Togami Byakuya_8
+  - first:
+      213: -4212925382154328629
+    second: Togami Byakuya_9
+  - first:
+      213: 6042441678969511867
+    second: Togami Byakuya_10
+  - first:
+      213: -100650594351590339
+    second: Togami Byakuya_11
+  - first:
+      213: 5449599813175429637
+    second: Togami Byakuya_12
+  - first:
+      213: 6730037148193313982
+    second: Togami Byakuya_13
+  - first:
+      213: 3595257386329000825
+    second: Togami Byakuya_14
+  - first:
+      213: 2454420255692992164
+    second: Togami Byakuya_15
+  - first:
+      213: 2608903814836764410
+    second: Togami Byakuya_16
+  - first:
+      213: 5250689346992885360
+    second: Togami Byakuya_17
+  - first:
+      213: -5379370824418460633
+    second: Togami Byakuya_18
+  - first:
+      213: -1476086239903649426
+    second: Togami Byakuya_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +100,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +131,453 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Togami Byakuya_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2288
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf904d617ddc5b20800000000000000
+      internalID: 3124615720722276319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2288
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f3246d2f9965b0800000000000000
+      internalID: -5374589662987554526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_2
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2288
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c733cc8c55ca0970800000000000000
+      internalID: 8722000629645653953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_3
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2288
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd1e38e1efeae1f0800000000000000
+      internalID: -1014735012475560488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f987542f6053c9c0800000000000000
+      internalID: -3908191613346149901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1716
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24dc7c94acf73e0800000000000000
+      internalID: -2053700486824115535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_6
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1716
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048241c459813770800000000000000
+      internalID: 8588796961484866569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_7
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1716
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf147970e326eb0800000000000000
+      internalID: -4728148456462222268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8029458b838f360800000000000000
+      internalID: 7203569968323102942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1144
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e67b9faea885c0800000000000000
+      internalID: -4212925382154328629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1144
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf1efa51b01bd350800000000000000
+      internalID: 6042441678969511867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_11
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1144
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34dd3551da6a9ef0800000000000000
+      internalID: -100650594351590339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4b58282ed0ab40800000000000000
+      internalID: 5449599813175429637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 572
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4de370125e56d50800000000000000
+      internalID: 6730037148193313982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_14
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 572
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4d3c5b8be4e130800000000000000
+      internalID: 3595257386329000825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_15
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 572
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeaa1ee73adf0220800000000000000
+      internalID: 2454420255692992164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeb1807230b43420800000000000000
+      internalID: 2608903814836764410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_17
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e407944223ed840800000000000000
+      internalID: 5250689346992885360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cff6f7cb2a855b0800000000000000
+      internalID: -5379370824418460633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Togami Byakuya_19
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 611.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6173bca263e38be0800000000000000
+      internalID: -1476086239903649426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

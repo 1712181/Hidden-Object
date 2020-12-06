@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: 49596fc8574838340bcde39970991029
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2331540487862892542
+    second: Ohwada Mondo_0
+  - first:
+      213: 3878006437030538251
+    second: Ohwada Mondo_1
+  - first:
+      213: 8911469289595298242
+    second: Ohwada Mondo_2
+  - first:
+      213: -3283716650375937995
+    second: Ohwada Mondo_3
+  - first:
+      213: 5295458365497243849
+    second: Ohwada Mondo_4
+  - first:
+      213: -6671157651168638294
+    second: Ohwada Mondo_5
+  - first:
+      213: -7489081362778129248
+    second: Ohwada Mondo_6
+  - first:
+      213: 1990900120831982830
+    second: Ohwada Mondo_7
+  - first:
+      213: 5266707188591899103
+    second: Ohwada Mondo_8
+  - first:
+      213: 1404910546073256648
+    second: Ohwada Mondo_9
+  - first:
+      213: 5627415383827251219
+    second: Ohwada Mondo_10
+  - first:
+      213: -6720318514442125811
+    second: Ohwada Mondo_11
+  - first:
+      213: 2700922031957829130
+    second: Ohwada Mondo_12
+  - first:
+      213: -3271694960721807395
+    second: Ohwada Mondo_13
+  - first:
+      213: 7765403789071239852
+    second: Ohwada Mondo_14
+  - first:
+      213: -8686750583911827530
+    second: Ohwada Mondo_15
+  - first:
+      213: -1392844432717492854
+    second: Ohwada Mondo_16
+  - first:
+      213: -2631868587745395438
+    second: Ohwada Mondo_17
+  - first:
+      213: -6854127405514141244
+    second: Ohwada Mondo_18
+  - first:
+      213: 7314286595326646949
+    second: Ohwada Mondo_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +100,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +131,453 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ohwada Mondo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2288
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7328e78bb4b5020800000000000000
+      internalID: 2331540487862892542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2288
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c22e3de4271d530800000000000000
+      internalID: 3878006437030538251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2288
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c161299a16ebab70800000000000000
+      internalID: 8911469289595298242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_3
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2288
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308e47ba15ed62d0800000000000000
+      internalID: -3283716650375937995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8755ea35f3d7940800000000000000
+      internalID: 5295458365497243849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_5
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1716
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac67926794b63a0800000000000000
+      internalID: -6671157651168638294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1716
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7c9ded20711890800000000000000
+      internalID: -7489081362778129248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_7
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1716
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecf8759c1911ab10800000000000000
+      internalID: 1990900120831982830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13408a84a171940800000000000000
+      internalID: 5266707188591899103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1144
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c285e7b2be3f7310800000000000000
+      internalID: 1404910546073256648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_10
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1144
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310879ce978981e40800000000000000
+      internalID: 5627415383827251219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_11
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1144
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3239bae1acb2a0800000000000000
+      internalID: -6720318514442125811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a066fd8274a9b7520800000000000000
+      internalID: 2700922031957829130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 572
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bdb474ca9892d0800000000000000
+      internalID: -3271694960721807395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_14
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 572
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa40117a9144cb60800000000000000
+      internalID: 7765403789071239852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_15
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 572
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b4894e56727780800000000000000
+      internalID: -8686750583911827530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4e783e5f9bace0800000000000000
+      internalID: -1392844432717492854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3de3b679b97bd0800000000000000
+      internalID: -2631868587745395438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_18
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15f0d707f31e0a0800000000000000
+      internalID: -6854127405514141244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohwada Mondo_19
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 708.5
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa98dbd7e0918560800000000000000
+      internalID: 7314286595326646949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

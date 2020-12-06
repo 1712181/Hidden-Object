@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: f7a17824970b4ac4aba7a10c6796f669
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5642478458939721215
+    second: Kuwata Leon_0
+  - first:
+      213: 1357721310320398662
+    second: Kuwata Leon_1
+  - first:
+      213: -5279457826328819131
+    second: Kuwata Leon_2
+  - first:
+      213: 7050074555506326153
+    second: Kuwata Leon_3
+  - first:
+      213: 9044970394679736912
+    second: Kuwata Leon_4
+  - first:
+      213: 8817461918481990370
+    second: Kuwata Leon_5
+  - first:
+      213: 355816710547062553
+    second: Kuwata Leon_6
+  - first:
+      213: 4947677705089293770
+    second: Kuwata Leon_7
+  - first:
+      213: -406109612644819148
+    second: Kuwata Leon_8
+  - first:
+      213: -6665753868031408058
+    second: Kuwata Leon_9
+  - first:
+      213: 3525890714318520090
+    second: Kuwata Leon_10
+  - first:
+      213: 9189393791846641680
+    second: Kuwata Leon_11
+  - first:
+      213: -6785906247963343122
+    second: Kuwata Leon_12
+  - first:
+      213: 7418822043211636355
+    second: Kuwata Leon_13
+  - first:
+      213: 8297691743254740091
+    second: Kuwata Leon_14
+  - first:
+      213: 5355833991570510051
+    second: Kuwata Leon_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +88,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +119,369 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Kuwata Leon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aba1a9cb3e1b1b0800000000000000
+      internalID: -5642478458939721215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1734
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64110a5965897d210800000000000000
+      internalID: 1357721310320398662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_2
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1734
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac30724199bb6b0800000000000000
+      internalID: -5279457826328819131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_3
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1729
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a79f09475e6d160800000000000000
+      internalID: 7050074555506326153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a7fc2d6a0368d70800000000000000
+      internalID: 9044970394679736912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1162
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e247afd5eaed5a70800000000000000
+      internalID: 8817461918481990370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1162
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f3e4db96d10f400800000000000000
+      internalID: 355816710547062553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_7
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1162
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd97faa8aea9a440800000000000000
+      internalID: 4947677705089293770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f1f6e75753d5af0800000000000000
+      internalID: -406109612644819148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_9
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 590
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6484dc77c2c7e73a0800000000000000
+      internalID: -6665753868031408058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_10
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 590
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fbdc77cea7ee030800000000000000
+      internalID: 3525890714318520090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_11
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 590
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010f23857f8478f70800000000000000
+      internalID: 9189393791846641680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68a03883e93d1a0800000000000000
+      internalID: -6785906247963343122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 18
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e97797753f4f660800000000000000
+      internalID: 7418822043211636355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_14
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 18
+        width: 556
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cf36c6da2572370800000000000000
+      internalID: 8297691743254740091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kuwata Leon_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1.5
+        width: 555.5
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d58f83aeb35a40800000000000000
+      internalID: 5355833991570510051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

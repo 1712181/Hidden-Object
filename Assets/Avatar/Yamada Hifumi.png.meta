@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: d1e23288cbddb5b4cba98b31768aa71f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5994500251256412860
+    second: Yamada Hifumi_0
+  - first:
+      213: 3710251364402253774
+    second: Yamada Hifumi_1
+  - first:
+      213: 6093623427065260315
+    second: Yamada Hifumi_2
+  - first:
+      213: -1340962058252880814
+    second: Yamada Hifumi_3
+  - first:
+      213: -5580223120359140821
+    second: Yamada Hifumi_4
+  - first:
+      213: -6619445150049766611
+    second: Yamada Hifumi_5
+  - first:
+      213: -6008354898701463000
+    second: Yamada Hifumi_6
+  - first:
+      213: 7798478319742947514
+    second: Yamada Hifumi_7
+  - first:
+      213: 4726291449049757827
+    second: Yamada Hifumi_8
+  - first:
+      213: -5038193741742572408
+    second: Yamada Hifumi_9
+  - first:
+      213: 4181459346930785560
+    second: Yamada Hifumi_10
+  - first:
+      213: 1238027016667982553
+    second: Yamada Hifumi_11
+  - first:
+      213: -769846359022305192
+    second: Yamada Hifumi_12
+  - first:
+      213: 3729990087294438923
+    second: Yamada Hifumi_13
+  - first:
+      213: -8458300325025737876
+    second: Yamada Hifumi_14
+  - first:
+      213: 3965809488660044020
+    second: Yamada Hifumi_15
+  - first:
+      213: 7243103763553287205
+    second: Yamada Hifumi_16
+  - first:
+      213: -5923085057718660680
+    second: Yamada Hifumi_17
+  - first:
+      213: -2586209582406157341
+    second: Yamada Hifumi_18
+  - first:
+      213: -6031115238137053012
+    second: Yamada Hifumi_19
+  - first:
+      213: -1095790091550629592
+    second: Yamada Hifumi_20
+  - first:
+      213: 4631894874643147683
+    second: Yamada Hifumi_21
+  - first:
+      213: 1381076829654745589
+    second: Yamada Hifumi_22
+  - first:
+      213: -6188930945052048402
+    second: Yamada Hifumi_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +112,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +143,537 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Yamada Hifumi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3998.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad022e73eb03350800000000000000
+      internalID: 5994500251256412860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_1
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3999
+        width: 571
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfca9a45f57d7330800000000000000
+      internalID: 3710251364402253774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3998.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b192935b836e09450800000000000000
+      internalID: 6093623427065260315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3427.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547f8cdc12f36de0800000000000000
+      internalID: -1340962058252880814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 3427.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22529723a01f82b0800000000000000
+      internalID: -5580223120359140821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_5
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 3427.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23f91515b10324a0800000000000000
+      internalID: -6619445150049766611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2856.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822db62ad090e9ca0800000000000000
+      internalID: -6008354898701463000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2856.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01dd4b6b2c93c60800000000000000
+      internalID: 7798478319742947514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_8
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2856.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b39d2809279140800000000000000
+      internalID: 4726291449049757827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2285.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c76d14c7db41ab0800000000000000
+      internalID: -5038193741742572408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2285.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ddb882f17870a30800000000000000
+      internalID: 4181459346930785560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_11
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2285.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae4d6230b5e2110800000000000000
+      internalID: 1238027016667982553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1714.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85009d6b0d4f055f0800000000000000
+      internalID: -769846359022305192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1714.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ec9e8d83693c330800000000000000
+      internalID: 3729990087294438923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_14
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1714.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63154b1ba41e9a80800000000000000
+      internalID: -8458300325025737876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1143.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8947ad7b2690730800000000000000
+      internalID: 3965809488660044020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_16
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1143.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c73e15f7ca48460800000000000000
+      internalID: 7243103763553287205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_17
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1143.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b151489589fccda0800000000000000
+      internalID: -5923085057718660680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb38fd4610fb1cd0800000000000000
+      internalID: -2586209582406157341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 572.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0456725ac2d4ca0800000000000000
+      internalID: -6031115238137053012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_20
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 572.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216bbca7b8fac0f0800000000000000
+      internalID: -1095790091550629592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abae0009dbc74040800000000000000
+      internalID: 4631894874643147683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_22
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1081f2f029a2310800000000000000
+      internalID: 1381076829654745589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yamada Hifumi_23
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1.75
+        width: 890.3333
+        height: 571.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee300c888108c1aa0800000000000000
+      internalID: -6188930945052048402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

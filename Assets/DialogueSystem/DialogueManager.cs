@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using System.Collections;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -11,14 +12,20 @@ public class DialogueManager : MonoBehaviour
     private Conversation currentConvo;
     private static DialogueManager instance;
     private Animator anim;
-    public static GameObject button;
+    public static GameObject startButton;
+    public static GameObject navButton;
+
+    private bool isIntroVideo;
 
     private void Awake()
     {
         if (instance == null)
         {
-            instance = this;  
+            instance = this;
+
             anim = GetComponent<Animator>();
+            navButton = GameObject.Find("NavButton");
+            navButton.SetActive(false);
         }
         else
         {
@@ -28,8 +35,10 @@ public class DialogueManager : MonoBehaviour
 
     public static void StartConversation(Conversation convo)
     {
-        button = GameObject.Find("StartButton");
-        button.SetActive(false);
+        startButton = GameObject.Find("StartButton");
+        startButton.SetActive(false);
+        navButton.SetActive(true);
+
         instance.anim.SetBool("isOpen", true);
         instance.currentIndex = 0;
         instance.currentConvo = convo;
@@ -48,9 +57,32 @@ public class DialogueManager : MonoBehaviour
             return;
         }
 
-        speakerName.text = currentConvo.GetLineByIndex(currentIndex).speaker.GetName();
-        dialogue.text = currentConvo.GetLineByIndex(currentIndex).dialogue;
-        speakerSprite.sprite = currentConvo.GetLineByIndex(currentIndex).speaker.GetSprite();
-        currentIndex++;
+        isIntroVideo = currentConvo.GetLineByIndex(currentIndex).isIntroCharacter;
+        if (isIntroVideo)
+        {
+            instance.anim.SetBool("isOpen", false);
+            var imageIntro = currentConvo.GetLineByIndex(currentIndex).imageIntroCharacter;
+            Image img = GameObject.Find("Panel").GetComponent<Image>();
+            img.sprite = imageIntro;
+            StartCoroutine(ShowImageIntro());
+
+            currentIndex++;
+        }
+        else
+        {
+
+            instance.anim.SetBool("isOpen", true);
+            speakerName.text = currentConvo.GetLineByIndex(currentIndex).speaker.GetName();
+            dialogue.text = currentConvo.GetLineByIndex(currentIndex).dialogue;
+            speakerSprite.sprite = currentConvo.GetLineByIndex(currentIndex).speaker.GetSprite();
+
+            currentIndex++;
+        }
+
+    }
+
+    IEnumerator ShowImageIntro()
+    {
+        yield return new WaitForSeconds(5);
     }
 }

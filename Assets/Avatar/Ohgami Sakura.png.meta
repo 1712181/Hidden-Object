@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 2d3aac3e6d2ea4943bb2d6548f2d9c85
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8452216563470638066
+    second: Ohgami Sakura_0
+  - first:
+      213: -1849311759192718276
+    second: Ohgami Sakura_1
+  - first:
+      213: -5781117648455999319
+    second: Ohgami Sakura_2
+  - first:
+      213: -733826311125347364
+    second: Ohgami Sakura_3
+  - first:
+      213: -5370441056013277908
+    second: Ohgami Sakura_4
+  - first:
+      213: -2387803000306275135
+    second: Ohgami Sakura_5
+  - first:
+      213: -8412616264894598763
+    second: Ohgami Sakura_6
+  - first:
+      213: -2625825066352963277
+    second: Ohgami Sakura_7
+  - first:
+      213: 5276919523620668145
+    second: Ohgami Sakura_8
+  - first:
+      213: 7475776754890919370
+    second: Ohgami Sakura_9
+  - first:
+      213: 4998431529788801942
+    second: Ohgami Sakura_10
+  - first:
+      213: -3957610808883072052
+    second: Ohgami Sakura_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +76,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +107,285 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ohgami Sakura_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1717.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1756ce2e4c4570800000000000000
+      internalID: 8452216563470638066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1717.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348d5ac0cce556e0800000000000000
+      internalID: -1849311759192718276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_2
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1718
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e90fd02855cfa0800000000000000
+      internalID: -5781117648455999319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d986abdce0d5f0800000000000000
+      internalID: -733826311125347364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1145.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a729305c5875b0800000000000000
+      internalID: -5370441056013277908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_5
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1145.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce12582d1dcded0800000000000000
+      internalID: -2387803000306275135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b84b3412604b80800000000000000
+      internalID: -8412616264894598763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 573.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33117bda3023f8bd0800000000000000
+      internalID: -2625825066352963277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_8
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 573.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2cbb139526b3940800000000000000
+      internalID: 5276919523620668145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4567a95b4fb760800000000000000
+      internalID: 7475776754890919370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938c275efefd5540800000000000000
+      internalID: 4998431529788801942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ohgami Sakura_11
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1.5
+        width: 919.3333
+        height: 572.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3374900fdb319c0800000000000000
+      internalID: -3957610808883072052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

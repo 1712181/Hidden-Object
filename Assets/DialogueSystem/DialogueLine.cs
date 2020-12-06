@@ -8,4 +8,7 @@ public class DialogueLine
     [TextArea] 
     public string dialogue;
 
+    public Sprite imageIntroCharacter;
+    // public Texture2D imageIntroCharacter;
+    public bool isIntroCharacter;
 }

@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: 0fa81fb4ece8fe54494ebbe320183b32
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7973691872608371036
+    second: Maizono Sayaka_0
+  - first:
+      213: 4440134882998654438
+    second: Maizono Sayaka_1
+  - first:
+      213: -7103612805539418907
+    second: Maizono Sayaka_2
+  - first:
+      213: 5898798054336619888
+    second: Maizono Sayaka_3
+  - first:
+      213: 3552890291305640170
+    second: Maizono Sayaka_4
+  - first:
+      213: -3983650956165858188
+    second: Maizono Sayaka_5
+  - first:
+      213: 3946149891364491241
+    second: Maizono Sayaka_6
+  - first:
+      213: -7056068796324834228
+    second: Maizono Sayaka_7
+  - first:
+      213: 1199876933796584160
+    second: Maizono Sayaka_8
+  - first:
+      213: -6059814667359150375
+    second: Maizono Sayaka_9
+  - first:
+      213: -4211343726855854074
+    second: Maizono Sayaka_10
+  - first:
+      213: 818418903855136710
+    second: Maizono Sayaka_11
+  - first:
+      213: 646662433021155375
+    second: Maizono Sayaka_12
+  - first:
+      213: -7965323244664849108
+    second: Maizono Sayaka_13
+  - first:
+      213: 1156476964095493378
+    second: Maizono Sayaka_14
+  - first:
+      213: -3471351135521886856
+    second: Maizono Sayaka_15
+  - first:
+      213: -6600445987211989394
+    second: Maizono Sayaka_16
+  - first:
+      213: 7915237560372008428
+    second: Maizono Sayaka_17
+  - first:
+      213: -7365731141514653431
+    second: Maizono Sayaka_18
+  - first:
+      213: -1851966314217532147
+    second: Maizono Sayaka_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +100,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +131,453 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Maizono Sayaka_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2156
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae32c00d71c75190800000000000000
+      internalID: -7973691872608371036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2156
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e594f7b6278e9d30800000000000000
+      internalID: 4440134882998654438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_2
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2156
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec28e73ac5ea6d90800000000000000
+      internalID: -7103612805539418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_3
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2156
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ef76c39dbcd150800000000000000
+      internalID: 5898798054336619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1617
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f43b55e66e4130800000000000000
+      internalID: 3552890291305640170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_5
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1617
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb698cf8a37b8c0800000000000000
+      internalID: -3983650956165858188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_6
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1617
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef0a392b6a83c630800000000000000
+      internalID: 3946149891364491241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_7
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1617
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44175c70dec31e90800000000000000
+      internalID: -7056068796324834228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1078
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea512dc6b1d6a010800000000000000
+      internalID: 1199876933796584160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_9
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1078
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de1b539aa637eba0800000000000000
+      internalID: -6059814667359150375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_10
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1078
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608efad613d4e85c0800000000000000
+      internalID: -4211343726855854074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_11
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1078
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfffb928ab9b5b00800000000000000
+      internalID: 818418903855136710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 539
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d0d18e0869f800800000000000000
+      internalID: 646662433021155375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 539
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2df69806bc757190800000000000000
+      internalID: -7965323244664849108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_14
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 539
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20585dbeba1ac0010800000000000000
+      internalID: 1156476964095493378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_15
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 539
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da194c88843dfc0800000000000000
+      internalID: -3471351135521886856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 539
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ea31568518664a0800000000000000
+      internalID: -6600445987211989394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_17
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 657.5
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59dcadf9298dd60800000000000000
+      internalID: 7915237560372008428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_18
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 657.5
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019cf65d8aa7c990800000000000000
+      internalID: -7365731141514653431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maizono Sayaka_19
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 0
+        width: 657.5
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051319037e7c46e0800000000000000
+      internalID: -1851966314217532147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
