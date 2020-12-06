@@ -1,7 +1,52 @@
 fileFormatVersion: 2
 guid: 23ee30d5d9459124b88bbf441532c9c6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4482827593645369576
+    second: Monokuma_0
+  - first:
+      213: 8817718353210133223
+    second: Monokuma_1
+  - first:
+      213: 7388513362911089520
+    second: Monokuma_2
+  - first:
+      213: -7240493791107756454
+    second: Monokuma_3
+  - first:
+      213: -7586114784624203423
+    second: Monokuma_4
+  - first:
+      213: -728585333945526629
+    second: Monokuma_5
+  - first:
+      213: 7247544591398694583
+    second: Monokuma_6
+  - first:
+      213: -510770768114355340
+    second: Monokuma_7
+  - first:
+      213: -1455639055117856123
+    second: Monokuma_8
+  - first:
+      213: 1152517039287039475
+    second: Monokuma_9
+  - first:
+      213: 6818850340494405849
+    second: Monokuma_10
+  - first:
+      213: 5817688530955757140
+    second: Monokuma_11
+  - first:
+      213: 7826046199305509857
+    second: Monokuma_12
+  - first:
+      213: 3421427241089109980
+    second: Monokuma_13
+  - first:
+      213: -2441537401461558944
+    second: Monokuma_14
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +85,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +116,348 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Monokuma_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2288
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82d8402f3363e30800000000000000
+      internalID: 4482827593645369576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2288
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea488cbf14de5a70800000000000000
+      internalID: 8817718353210133223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_2
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2288
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073da8ee1c5498660800000000000000
+      internalID: 7388513362911089520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec99e3249948b90800000000000000
+      internalID: -7240493791107756454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a22ddbc4b8b690800000000000000
+      internalID: -7586114784624203423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_5
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1716
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b961e9dbf7b83e5f0800000000000000
+      internalID: -728585333945526629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1144
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6f102863749460800000000000000
+      internalID: 7247544591398694583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1144
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473f3ec41b069e8f0800000000000000
+      internalID: -510770768114355340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_8
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1144
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d38eddf78ccbe0800000000000000
+      internalID: -1455639055117856123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 572
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f94414209eff00800000000000000
+      internalID: 1152517039287039475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 572
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d078b1c14c61ae50800000000000000
+      internalID: 6818850340494405849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_11
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 572
+        width: 746.3333
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566b7d35e49cb050800000000000000
+      internalID: 5817688530955757140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9669dd83bb9c60800000000000000
+      internalID: 7826046199305509857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf06f1c2f95b7f20800000000000000
+      internalID: 3421427241089109980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monokuma_14
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 0
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061bd005baaed1ed0800000000000000
+      internalID: -2441537401461558944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -20,10 +20,16 @@ MonoBehaviour:
 
       And
       that was the end of my normal life...'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'I probably should have caught on right then and there.
 
       It wasn''t
       "Super High School-Level Luck" that brought me to Hope''s Peak High."'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: It was "Super High School-Level Bad Luck."
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
