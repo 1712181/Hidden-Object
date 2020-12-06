@@ -1,0 +1,926 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed693e1d3af5e19458583c9e26965d42, type: 3}
+  m_Name: Convo-022
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Oh, goodie! You''re finally here!
+
+      Whatcha think? Doesn''t it
+      match what you were expecting?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'I would like to ask something before we begin the debate.
+
+      What
+      purpose do those serve?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: It doesn't seem right to leave them out just 'cause they're dead, now
+      does it?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'In which case, to whom does that chair belong?
+
+      With only 15
+      of us, why the need for 16 chairs?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: "Don't read too much into it!\nThat just means this courtroom can hold
+      a maximum of 16 jurors.\r"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Welp, we''ve spent long enough on getting situated.
+
+      It''s about
+      time we got this classroom trial underway!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Is the murderer... really amongst us?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: Of course! There's no doubt about it.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
+    dialogue: "Very well! Everyone, close your eyes!\r\tWhoever the culprit is, raise
+      your hand!"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
+    dialogue: Are you stupid? Like he's gonna play along!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: Now then, please begin the debate.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: '(Naegi''s thought)
+
+      I can''t mess this up...
+
+      Everyone''s
+      lives are on the line, not just mine!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: First, let us begin by inspecting the weapon used to commit the crime.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
+    dialogue: 'The knife that was plunged into Maizono''s stomach...
+
+      That
+      must be the weapon! That is what killed her!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
+    dialogue: Anyone with eyes could see that!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: It means that someone took the knife from the kitchen.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: Are you saying that whoever went into the kitchen was the culprit?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'But it boils down to the same thing: Naegi did her in.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: 'Wait! Naegi didn''t take the knife from the kitchen.
+
+      Sakura
+      and I spent the whole day in the cafeteria, so I''d know...'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: Um... Just to verify, who precisely is Sakura?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: ddb235e67e34a3a48b28c2a529abcf75, type: 2}
+    dialogue: '''Tis I.
+
+      Last night, Asahina and I partook of evening tea.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: 'I was feeling scared!
+
+      So I kinda pushed Sakura into hanging
+      out with me.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: If you were accomplices, you could say anything if you matched your
+      stories.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Even if you have an accomplice, the only one qualified to graduate...
+
+      ...is
+      the guilty student who carried out the crime.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: In other words, there is nothing to gain by defending someone.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: 'Th-Then...
+
+      If you weren''t in on it, who took the knife, you
+      swimming freak?!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: '"Swimming freak"?!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: ddb235e67e34a3a48b28c2a529abcf75, type: 2}
+    dialogue: While we were in the cafeteria, there was but one who visited the kitchen...
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: Why didn't you say so sooner?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: 'Because she isn''t with us anymore...
+
+      It was Sayaka Maizono.
+
+      She
+      came to the kitchen, but she''s dead.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Maizono took a knife out of the kitchen?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: ddb235e67e34a3a48b28c2a529abcf75, type: 2}
+    dialogue: She is the only conceivable possibility.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Hi\u1EC7n video c\u1EA3nh flashback)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: I'm sure... she must have wanted it for self-defense.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: Assuming that is true, it means the culprit stole the knife Maizono
+      had taken and then proceeded to kill her with it.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: Furthermore, Naegi, I do not believe this has cleared your name.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: S-See, I told you! I just knew Naegi was behind this!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: I told you I didn't do it!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
+    dialogue: 'Are you trying to manipulate the debate and lead us down the wrong
+      path?
+
+      What terrifying skills you have!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 0}
+    dialogue: '(Naegi''s thought)
+
+      Guys, why don''t you get it?
+
+      If you
+      declare me guilty, we''re all going to die!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'Wait.
+
+      Isn''t it too early to name Naegi the culprit?
+
+      There
+      is evidence suggesting that Naegi is not the murderer.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'Please recall the scene of the crime.
+
+      Did the culprit effortlessly
+      slip into the shower room?
+
+      The doorknob to the shower room was broken...'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: N-Naegi tried to force it open and broke it! He broke it with force!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: That is precisely why I do not believe Naegi was the culprit.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
+    dialogue: 'What''re you talking about?
+
+      He had to break it if he wanted
+      in, right?
+
+      She locked the door from the other side!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'You''re wrong!
+
+      Weren''t the only shower rooms with locking
+      doors in the girls'' rooms?
+
+      Apparently the shower rooms in the guys''
+      rooms don''t have locks.
+
+      Isn''t that right, Monokuma?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: Yep, that's right!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
+    dialogue: Then why wouldn't your shower room's door open, Naegi?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'That''s because I have a poorly fit door.
+
+      The culprit was under
+      the misconception that the door wouldn''t open because she had locked it from
+      the inside. That''s why he tried to break the doorknob!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: If Naegi was the culprit, he could have opened the door without going
+      through all of that effort.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: S-So it wasn't Naegi?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: 'Then let us assume that someone else is the murderer.
+
+      Where
+      would he get the idea that the door was locked when this was a boy''s room?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'I imagine the killer truly believed that it was a girl''s room.
+
+      He
+      was convinced that it was Sayaka Maizono''s room.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
+    dialogue: So you're saying that it was someone who didn't know about the room
+      swap?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
+    dialogue: That's everyone except for Naegi!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: 'It does not matter how trivial the matter may seem.
+
+      Does anyone
+      feel that something seems amiss?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: 'Something seems off to me!
+
+      See, I was wondering how the killer
+      got into Naegi''s room to begin with.
+
+      He picked the lock?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
+    dialogue: No, the locks were supposed to have anti-picking mechanisms!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
+    dialogue: 'Then allow this here genius to tell you!
+
+      Bluntly put, Maizono
+      personally invited the killer, who was pretending to be a visitor, into her
+      room!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: "Yamada...\r\nThere is no way Maizono would open the door.\r\nThat's
+      a given. For one thing, she was scared stiff. \r\nI have a hard time believing
+      she'd open the door after saying that."
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: "In that case, what if her being scared was an act in and of itself?\r"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: H-How could you say that? There is no way she'd do that!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: I doubt you want to consider the possibility, Naegi, but can you maintain
+      that stance after seeing this?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: "(M\u1EA3nh note c\u1EE7a Maizono)\r\n\"There's something I want to
+      discuss in private. \r\nPlease come to my room. \r\nMake sure to check the
+      nameplate so you don't go to the wrong room by mistake.\""
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 0}
+    dialogue: 'The pressure of her pen dented the paper underneath.
+
+      I found
+      this in a notebook that was in your room, Naegi.
+
+      Naegi, were you the
+      one who wrote this?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: No, it wasn't me...
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'I thought not.
+
+      It appears that the memo was signed by a name
+      that could be read as, "Maizono."'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Why would she write a memo like this...?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: I believe she used that memo to invite someone to your room.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
+    dialogue: 'Any guy''d kill to see the day a super high school-level idol invites
+      him to her room.
+
+      Oh, but, naturally, I''m only interested in 2D girls,
+      so no worries there!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: 'However, I do believe that memo with Maizono''s signature said, "Come
+      to my room," did it not?
+
+      But then wouldn''t he go to Maizono''s room
+      while Naegi was there?
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'No, the culprit was certain to visit Naegi''s room.
+
+      Not only
+      did the residents swap rooms, but also nameplates.
+
+      If I had only looked
+      at my handbook, I would have missed this clue.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: 'Then the person she invited in that memo...
+
+      Would undoubtedly
+      find himself welcomed into Naegi''s room, where Sayaka Maizono was waiting.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'Swapping nameplates...
+
+      Who would do such a thing?
+
+      It
+      clearly was not Naegi, correct?
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: R-Right...
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Th-Then who the heck did it?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'Only one person could have done it.
+
+      It had to be the only other
+      person who knew that we had swapped rooms...Maizono!
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: But why'd she ask someone over after swapping rooms with you?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: 'Maizono was planning to kill someone.
+
+      I suspect that after
+      the murder, she intended to return the nameplates and place the blame on Naegi.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: She'd never--!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: Are you certain? Look at all of the evidence pointing otherwise.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Ch\u1EA1y ho\u1EA1t \u1EA3nh 1)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: 'The problem with Maizono''s plan was that she gave the fool she invited
+      into your
+
+      room a chance to fight back.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
+    dialogue: He got in the first strike with that decorative sword!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: No, that was used in defense.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: 'In general, that is what scratches on a sheath imply...
+
+      If
+      everything had gone according to plan, Maizono would be standing there now
+      as if nothing had ever happened.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Maizono, why...?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: 'Isn''t that obvious?
+
+      It was to escape from this school, or
+      so I suspect.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: However, she was ultimately defeated and killed, so she failed to get
+      far.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Don't put it like that!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: Why not? That is how this game works.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: This is hardly the time to argue.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
+    dialogue: Indeed not. We have not yet decided upon a culprit. It has to be someone
+      here in our midst...
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: '(Naegi''s thought)
+
+      I''ve gotta think! If we don''t find the
+      culprit, it''s all over.
+
+      There must be something that we''re overlooking.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'Jeez! Like we can pick someone.
+
+      We''re fresh outta clues, ya
+      know? What more can we do?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: "You're wrong!\nWe still have some clues! \nMaizono left behind...
+      a dying message!\n"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: Wasn't it on the wall next to Maizono's back?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
+    dialogue: You mean that "11037" thingy?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
+    dialogue: 'If you''re gonna talk numbers, isn''t that girl a whiz?
+
+      You''re
+      a super high school-level programmer, aren''t you?
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
+    dialogue: 'But I came up empty-handed.
+
+      Try as I might, I can''t draw the
+      correlation between those numbers.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: '(Naegi''s thought)
+
+      Maizono managed to escape into the shower
+      room, but he forced open the door and killed her with the knife he had snatched
+      from her.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Ch\u1EA1y ho\u1EA1t \u1EA3nh 2)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 0}
+    dialogue: "That's it! I've got it!\nThat message she wrote...It's the culprit's
+      name!\t\nIf you flip the dying message 180 degrees, it should become obvious!"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(M\xE0n h\xECnh \u0111en v\u1EDBi h\xECnh 11037)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "--> B\u1EA5m v\xE0o \u0111\u1EC3 l\u1EADt ng\u01B0\u1EE3c l\u1EA1i"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'Leon!
+
+      Isn''t that your name, Leon Kuwata?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Wait! Ain't that a bit farfetched?!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: I imagine she was leaning against the very wall that she wrote the
+      message on.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Because of the position she wrote it in, when you view it from the
+      front, it looks like it's been flipped 180 degrees.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'What the hell?! You think I did it?
+
+      You can cut the bullshit
+      already!
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: If you are not the culprit, why did you try to destroy the evidence?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Huh?!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Are you talking about the scorched remains of a Y-shirt and those glass
+      ball fragments in the trash room?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: Naegi, it seems you are beginning to see the answer that will solve
+      this entire puzzle!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: Let me paint the whole picture for you.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Ch\u1EA1y ho\u1EA1t \u1EA3nh 3)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'This case''s culprit rushed to destroy all of the evidence after he
+      killed Maizono.
+
+      But he couldn''t get near the incinerator!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'This is when the culprit used Hagakure''s glass ball.
+
+      Although
+      this would be all but impossible for a normal person, the culprit was confident
+      that he could make his plan work.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'That''s because he was a "Super High School-Level Baseball Player."
+
+      The
+      culprit relaxed after disposing of the evidence and left the trash room.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'But this is where he made a mistake.
+
+      Part of the Y-shirt he
+      had thrown into the incinerator fell out!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'And the culprit had no idea that the scrap of material would be used
+      as
+
+      conclusive evidence against him. Isn''t that right, Leon Kuwata?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: 'How about it, Kuwata?
+
+      Do you care to object?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Do I care to object, huh?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'I do! I do, I do!
+
+      You better friggin'' believe I do!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Moron, moron, moron, moron, moron, moron! I'll never fess up!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: But as a super high school-level baseball player, you're the only one
+      capable of hitting the incinerator's switch with a glass ball.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'No flippin'' way I''ll confess!
+
+      Besides, Yamada could get past
+      the gate since he''s on trash duty!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: But Yamada wouldn't need to throw a glass ball from the outside because
+      he can get in!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'Moron, moron, moron! And seriously!
+
+      Claimin'' I, "threw the
+      glass ball to hide the evidence," is nothin'' more than speculation based on
+      circumstantial evidence!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: True, but there is other evidence that points to you as the culprit.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Don't make crap up!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: The screws to the shower room's doorknob were removed.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: So who gives a rat's ass?!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: How did the culprit remove those screws?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Your reasoning is so flippin' wrong, you retarded piece of shit!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: If what I'm thinking is right, there should be evidence that you've
+      used the screwdriver in your tool kit!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'Moron, moron, moron, moron, moron, moron, moron!
+
+      Without any
+      evidence, this trial''s just a sham! I won''t take this crap!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
+    dialogue: 'I''ll prove that you''re guilty!
+
+      Kuwata, could you show us
+      your tool kit?
+
+      I''m sure Kuwata''s tool kit has been used.'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: If you have used it somewhere else, I expect you to explain precisely
+      where and how it was used.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
+    dialogue: Just so you know, "I lost it," is not an acceptable excuse.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'M-M-M-M--
+
+      Moron?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
+    dialogue: It would seem he does not have an argument in his defense.
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Looks like you''ve just about wrapped up yer debate.
+
+      In which
+      case, let''s move on to Voting Time!
+
+      Punks, please vote by pressing
+      the switch in front of you!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Who will come out guilty in the vote?
+
+      The answer is...!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 0}
+    dialogue: (Video Jackpot)
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Yahoo! You''re totally right!
+
+      The person who killed Sayaka
+      Maizono in this murder case...
+
+'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: ...was Leon Kuwata!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Yeah?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
+    dialogue: Kuwata...
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'I didn''t have a choice...
+
+      I mean, she was tryin'' to do me
+      in.
+
+      So like, my only option was to kill her.
+
+      One wrong move
+      and this coulda happened to you!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'Okay, so there you have it!
+
+      You did a magnificent job identifying
+      the guilty party, so now let''s move on to Leon Kuwata''s punishment!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: 'W-Wait just a minute! I only killed her ''cause I had to!
+
+      That''s
+      right! It was legitimate self-defense!
+
+      I accidentally killed her when
+      tryin'' to protect myself!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: Now then, why don't we get yer punishment underway?
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: Please wait!
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'If ya disrupt the peace, ya get punished!
+
+      Isn''t that one of
+      society''s rules?'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: '(scream)
+
+      N-No...! No!
+
+      Lemme outta here!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
+    dialogue: 'For the Super High School-Level Baseball Player, Leon Kuwata,
+
+      I''ve
+      prepared a special little punishment!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
+    dialogue: '(scream)
+
+      No!'
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    dialogue: "(Ch\u1EA1y video h\xE0nh h\xECnh Leon)"
+    imageIntroCharacter: {fileID: 0}
+    isIntroCharacter: 0
