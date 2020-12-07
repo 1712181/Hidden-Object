@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5de864ccf18090b4688febc1ce9b8d82, type: 3}
   m_Name: Unknown
   m_EditorClassIdentifier: 
-  speakerName: Hagakure
-  speakerSprite: {fileID: 2724781349133281695, guid: cc642b37ca253a5428825341623b602a,
-    type: 3}
+  speakerName: 
+  speakerSprite: {fileID: 0}

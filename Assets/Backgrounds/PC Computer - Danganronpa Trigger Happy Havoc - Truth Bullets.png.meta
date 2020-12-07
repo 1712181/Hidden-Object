@@ -1,0 +1,3140 @@
+fileFormatVersion: 2
+guid: 9f719dd159818b84cb6a3a8dc64e1bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1622819905391612822
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_0
+  - first:
+      213: 6072273585245412177
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_1
+  - first:
+      213: 1749438891470585526
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_2
+  - first:
+      213: 7434608171729858238
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_3
+  - first:
+      213: 4278860491861535312
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_4
+  - first:
+      213: -1700407000872597274
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_5
+  - first:
+      213: 2378456647393984471
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_6
+  - first:
+      213: -600604402751094022
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_7
+  - first:
+      213: 2447199152858863238
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_8
+  - first:
+      213: -1452705347335544268
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_9
+  - first:
+      213: 5365062738215031636
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_10
+  - first:
+      213: -6299350037957119731
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_11
+  - first:
+      213: -1719927687509129678
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_12
+  - first:
+      213: -7583282324048079945
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_13
+  - first:
+      213: -2643000935587046677
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_14
+  - first:
+      213: 8092181904122546100
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_15
+  - first:
+      213: -2235444484435487573
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_16
+  - first:
+      213: 879168962255426924
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_17
+  - first:
+      213: -7273828590722190798
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_18
+  - first:
+      213: -6169723628834212153
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_19
+  - first:
+      213: -7598986115978699217
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_20
+  - first:
+      213: -6058182108385584180
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_21
+  - first:
+      213: 8825413181296603914
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_22
+  - first:
+      213: -5846658951131796247
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_23
+  - first:
+      213: -1457172965909542482
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_24
+  - first:
+      213: -515778139240861659
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_25
+  - first:
+      213: -7782262337171522874
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_26
+  - first:
+      213: 8047813995128589138
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_27
+  - first:
+      213: 8235013441351517743
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_28
+  - first:
+      213: -3072555708563774648
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_29
+  - first:
+      213: 8174738881645646352
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_30
+  - first:
+      213: -1501763725017947624
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_31
+  - first:
+      213: 7940578259597347732
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_32
+  - first:
+      213: 3446255951729142566
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_33
+  - first:
+      213: 569779596292155834
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_34
+  - first:
+      213: 9116076143676109785
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_35
+  - first:
+      213: -308948081697573834
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_36
+  - first:
+      213: 9182063731348117178
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_37
+  - first:
+      213: -4573699082160539007
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_38
+  - first:
+      213: -7223128536333555957
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_39
+  - first:
+      213: 6208090765767328829
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_40
+  - first:
+      213: -864831306462026466
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_41
+  - first:
+      213: -6424859489751288414
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_42
+  - first:
+      213: 4405168745607234141
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_43
+  - first:
+      213: -8017922213421097391
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_44
+  - first:
+      213: 1689490173696252075
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_45
+  - first:
+      213: -7260526126216901213
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_46
+  - first:
+      213: -3989912118199572193
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_47
+  - first:
+      213: 3648290703613901324
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_48
+  - first:
+      213: -6466031020409411460
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_49
+  - first:
+      213: 3414785354149831397
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_50
+  - first:
+      213: -7220767216661158094
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_51
+  - first:
+      213: -1889779285667378084
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_52
+  - first:
+      213: -8195694061742373354
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_53
+  - first:
+      213: 2060363424230362371
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_54
+  - first:
+      213: 6049628688310877411
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_55
+  - first:
+      213: 9095354350362316233
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_56
+  - first:
+      213: -3437237801955003663
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_57
+  - first:
+      213: -7948894812546069265
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_58
+  - first:
+      213: 6664114340078447239
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_59
+  - first:
+      213: 1820880019267038313
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_60
+  - first:
+      213: 8153864323480020720
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_61
+  - first:
+      213: -3782012411709325154
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_62
+  - first:
+      213: -7882632540866203121
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_63
+  - first:
+      213: -6968757358232071217
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_64
+  - first:
+      213: 1721164075548855054
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_65
+  - first:
+      213: -33731967543648245
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_66
+  - first:
+      213: 7023183669659658062
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_67
+  - first:
+      213: 7475335814197929881
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_68
+  - first:
+      213: -8551657534398420972
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_69
+  - first:
+      213: -2423255611165312699
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_70
+  - first:
+      213: 5098319778303016274
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_71
+  - first:
+      213: 3444236603495205601
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_72
+  - first:
+      213: 2966965855879380388
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_73
+  - first:
+      213: 136486523735078450
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_74
+  - first:
+      213: -7955876028785809461
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_75
+  - first:
+      213: 3101122623456698443
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_76
+  - first:
+      213: 3814584280775181328
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_77
+  - first:
+      213: 144754000780085638
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_78
+  - first:
+      213: 1311894514249062550
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_79
+  - first:
+      213: -6559094944787875541
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_80
+  - first:
+      213: -4894094213822045410
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_81
+  - first:
+      213: -4274935517606814150
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_82
+  - first:
+      213: -4581539344056060405
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_83
+  - first:
+      213: -3273562533442590812
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_84
+  - first:
+      213: -1249090358501354918
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_85
+  - first:
+      213: 6170609511633805079
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_86
+  - first:
+      213: 910244276154066246
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_87
+  - first:
+      213: 6308351084678510291
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_88
+  - first:
+      213: 382967555224003113
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_89
+  - first:
+      213: 2664592682734213869
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_90
+  - first:
+      213: 8519415965933508478
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_91
+  - first:
+      213: -8110688462029631959
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_92
+  - first:
+      213: -2223186442823595058
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_93
+  - first:
+      213: 3872055476906089833
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_94
+  - first:
+      213: 7527766069447154641
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_95
+  - first:
+      213: 1158658488553820142
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_96
+  - first:
+      213: -8018679979999932627
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_97
+  - first:
+      213: 950400468533217098
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_98
+  - first:
+      213: 3037528542484756296
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_99
+  - first:
+      213: -3877186274013855362
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_100
+  - first:
+      213: 844227426391822024
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_101
+  - first:
+      213: -1688446196762508115
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_102
+  - first:
+      213: -1323732877880449061
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_103
+  - first:
+      213: -8181698510032656539
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_104
+  - first:
+      213: -4587433415004960272
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_105
+  - first:
+      213: 854027432613051074
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_106
+  - first:
+      213: 1863111232800029392
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_107
+  - first:
+      213: 4980080049331808863
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_108
+  - first:
+      213: -3371976291328152850
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_109
+  - first:
+      213: 1681720873604895244
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_110
+  - first:
+      213: -4759345873771711012
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_111
+  - first:
+      213: 2675833111931364849
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_112
+  - first:
+      213: 5965065522617094978
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_113
+  - first:
+      213: -453833180700428718
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_114
+  - first:
+      213: 2547456111622889581
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_115
+  - first:
+      213: 777348420852908437
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_116
+  - first:
+      213: 9079188822995014304
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_117
+  - first:
+      213: 7425063453997663694
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_118
+  - first:
+      213: -1868711583087375495
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_119
+  - first:
+      213: -8530229804513652369
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_120
+  - first:
+      213: -4338996635287491175
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_121
+  - first:
+      213: 1552013655522821409
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_122
+  - first:
+      213: -5724408938878635602
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_123
+  - first:
+      213: 707677342672639113
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_124
+  - first:
+      213: 2061674961263085020
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c23b4e4e59a79e0800000000000000
+      internalID: -1622819905391612822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5a8b47ac054450800000000000000
+      internalID: 6072273585245412177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_2
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7b522761474810800000000000000
+      internalID: 1749438891470585526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_3
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeac20fdb80d2760800000000000000
+      internalID: 7434608171729858238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_4
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2cdc62f0916b30800000000000000
+      internalID: 4278860491861535312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_5
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4529.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c66387d0f668e0800000000000000
+      internalID: -1700407000872597274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfb59d18b9f10120800000000000000
+      internalID: 2378456647393984471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24c735a793aa7f0800000000000000
+      internalID: -600604402751094022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861ac8e9a236f120800000000000000
+      internalID: 2447199152858863238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43221c0fe24f6dbe0800000000000000
+      internalID: -1452705347335544268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_10
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453ddf49228847a40800000000000000
+      internalID: 5365062738215031636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_11
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4303.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f8bf04863498a0800000000000000
+      internalID: -6299350037957119731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236c8aa71e69128e0800000000000000
+      internalID: -1719927687509129678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39d9b77e4c2c690800000000000000
+      internalID: -7583282324048079945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1f4df6ac225bd0800000000000000
+      internalID: -2643000935587046677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_15
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7811d41943d4070800000000000000
+      internalID: 8092181904122546100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_16
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4dd16d51b1af0e0800000000000000
+      internalID: -2235444484435487573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_17
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 4077.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6598cc538f633c00800000000000000
+      internalID: 879168962255426924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327ce46f6b2e0b90800000000000000
+      internalID: -7273828590722190798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b0055c0db06aa0800000000000000
+      internalID: -6169723628834212153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed6ff736afa8690800000000000000
+      internalID: -7598986115978699217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_21
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbdc0558730deba0800000000000000
+      internalID: -6058182108385584180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_22
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fb33878a2a7a70800000000000000
+      internalID: 8825413181296603914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_23
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3851.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec6eee29ae7cdea0800000000000000
+      internalID: -5846658951131796247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c8ae68e417cbe0800000000000000
+      internalID: -1457172965909542482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f2abd38697d8f0800000000000000
+      internalID: -515778139240861659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca7df3f2a9dff390800000000000000
+      internalID: -7782262337171522874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_27
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8e0e70349faf60800000000000000
+      internalID: 8047813995128589138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_28
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26035c0815a84270800000000000000
+      internalID: 8235013441351517743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_29
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3625.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432576bcd61c55d0800000000000000
+      internalID: -3072555708563774648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012101483b1827170800000000000000
+      internalID: 8174738881645646352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ecb949d9a82be0800000000000000
+      internalID: -1501763725017947624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_32
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b4d7a2bd9923e60800000000000000
+      internalID: 7940578259597347732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_33
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b24ef678f83df20800000000000000
+      internalID: 3446255951729142566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_34
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96245268348e700800000000000000
+      internalID: 569779596292155834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_35
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3399.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d33a3124fec28e70800000000000000
+      internalID: 9116076143676109785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b0684b5566bbf0800000000000000
+      internalID: -308948081697573834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69004a05e3d6f70800000000000000
+      internalID: 9182063731348117178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7a42dae4f680c0800000000000000
+      internalID: -4573699082160539007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_39
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e9d0bdda42cb90800000000000000
+      internalID: -7223128536333555957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_40
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c1fad8a1972650800000000000000
+      internalID: 6208090765767328829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_41
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 3173.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a1b342808ff3f0800000000000000
+      internalID: -864831306462026466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b39d955056d6a0800000000000000
+      internalID: -6424859489751288414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52829172ad422d30800000000000000
+      internalID: 4405168745607234141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_44
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e52584a3e9ab090800000000000000
+      internalID: -8017922213421097391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_45
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89da69c56427710800000000000000
+      internalID: 1689490173696252075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_46
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0664c4fd6d3b90800000000000000
+      internalID: -7260526126216901213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_47
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2947.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1920b5611cf0a8c0800000000000000
+      internalID: -3989912118199572193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3442c01551a230800000000000000
+      internalID: 3648290703613901324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7827d1ab0b0446a0800000000000000
+      internalID: -6466031020409411460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_50
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2ae42ff21c36f20800000000000000
+      internalID: 3414785354149831397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_51
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372025497eaacb90800000000000000
+      internalID: -7220767216661158094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_52
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c87ed80c726c5e0800000000000000
+      internalID: -1889779285667378084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_53
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2721.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616411a6cab034e80800000000000000
+      internalID: -8195694061742373354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d45793e91e79c10800000000000000
+      internalID: 2060363424230362371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_55
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec38cd5d3994f350800000000000000
+      internalID: 6049628688310877411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_56
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd46a7a790393e70800000000000000
+      internalID: 9095354350362316233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_57
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27ded2e6a7c40d0800000000000000
+      internalID: -3437237801955003663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_58
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec0f35784adfa190800000000000000
+      internalID: -7948894812546069265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_59
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2495.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a66fe2fa0bb7c50800000000000000
+      internalID: 6664114340078447239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ca407eab0154910800000000000000
+      internalID: 1820880019267038313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6e1c3b668582170800000000000000
+      internalID: 8153864323480020720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_62
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9082ffdfb7938bc0800000000000000
+      internalID: -3782012411709325154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_63
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f023cb2d7734b9290800000000000000
+      internalID: -7882632540866203121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_64
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc310b0da100a4f90800000000000000
+      internalID: -6968757358232071217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_65
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2269.524
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc04b8b9dc2e710800000000000000
+      internalID: 1721164075548855054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006cf844f8288ff0800000000000000
+      internalID: -33731967543648245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47636e465c577160800000000000000
+      internalID: 7023183669659658062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_68
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e506215abdb760800000000000000
+      internalID: 7475335814197929881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_69
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418a365f7c8625980800000000000000
+      internalID: -8551657534398420972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_70
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f4805cddde5ed0800000000000000
+      internalID: -2423255611165312699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_71
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 2043.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d791983ded0c640800000000000000
+      internalID: 5098319778303016274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eacab941f26ccf20800000000000000
+      internalID: 3444236603495205601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_73
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad376ce9b7cc2920800000000000000
+      internalID: 2966965855879380388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_74
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2367bdb25c5e4e100800000000000000
+      internalID: 136486523735078450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_75
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72d2367ec079190800000000000000
+      internalID: -7955876028785809461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_76
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4060187896690b20800000000000000
+      internalID: 3101122623456698443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_77
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1817.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c46d513020f430800000000000000
+      internalID: 3814584280775181328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689405c2ff4420200800000000000000
+      internalID: 144754000780085638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_79
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69859982c19c43210800000000000000
+      internalID: 1311894514249062550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_80
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29bbd736e969f4a0800000000000000
+      internalID: -6559094944787875541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_81
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a7d71e3fa41cb0800000000000000
+      internalID: -4894094213822045410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_82
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e585bdbc06ca4c0800000000000000
+      internalID: -4274935517606814150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_83
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1591.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ff099d3a1b60c0800000000000000
+      internalID: -4581539344056060405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7602c4838f192d0800000000000000
+      internalID: -3273562533442590812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_85
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a525929dfe65aaee0800000000000000
+      internalID: -1249090358501354918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_86
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f549458a862a550800000000000000
+      internalID: 6170609511633805079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_87
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645eef2b856d1ac00800000000000000
+      internalID: 910244276154066246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_88
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d676b073e3cb8750800000000000000
+      internalID: 6308351084678510291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_89
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1365.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92260a166f2905500800000000000000
+      internalID: 382967555224003113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5a756de88af420800000000000000
+      internalID: 2664592682734213869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e771247eeab0b3670800000000000000
+      internalID: 8519415965933508478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_92
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e4dd8e0db017f80800000000000000
+      internalID: -8110688462029631959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_93
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb090e85b7a521e0800000000000000
+      internalID: -2223186442823595058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_94
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd793f0fd4cb530800000000000000
+      internalID: 3872055476906089833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_95
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1139.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbd2a93b5ff77860800000000000000
+      internalID: 7527766069447154641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcd3aa1c1641010800000000000000
+      internalID: 1158658488553820142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_97
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f41900b0de7b090800000000000000
+      internalID: -8018679979999932627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_98
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a478941d030803d00800000000000000
+      internalID: 950400468533217098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_99
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f9e9ad18772a20800000000000000
+      internalID: 3037528542484756296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_100
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71426140a7713ac0800000000000000
+      internalID: -3877186274013855362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_101
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 913.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce0ab31f5c47bb00800000000000000
+      internalID: 844227426391822024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48c9b312f6198e0800000000000000
+      internalID: -1688446196762508115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_103
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd72e6406f721ade0800000000000000
+      internalID: -1323732877880449061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_104
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567292abd84c47e80800000000000000
+      internalID: -8181698510032656539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_105
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f94fd34d992650c0800000000000000
+      internalID: -4587433415004960272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_106
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf655dc6d1adb00800000000000000
+      internalID: 854027432613051074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_107
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 687.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf5188bc91bd910800000000000000
+      internalID: 1863111232800029392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aae655b6ccc1540800000000000000
+      internalID: 4980080049331808863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_109
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa854bd655431d0800000000000000
+      internalID: -3371976291328152850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_110
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c025492793ca65710800000000000000
+      internalID: 1681720873604895244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_111
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bd96d42863fdb0800000000000000
+      internalID: -4759345873771711012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_112
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a5e2c908722520800000000000000
+      internalID: 2675833111931364849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_113
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 461.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24395811d7b28c250800000000000000
+      internalID: 5965065522617094978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256b01d6029a3b9f0800000000000000
+      internalID: -453833180700428718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_115
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602e2626d16a5320800000000000000
+      internalID: 2547456111622889581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_116
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59106ab2542b9ca00800000000000000
+      internalID: 777348420852908437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_117
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a290538122cffd70800000000000000
+      internalID: 9079188822995014304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_118
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5044a2fdf1b0760800000000000000
+      internalID: 7425063453997663694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_119
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 235.5238
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b4b6e47b00116e0800000000000000
+      internalID: -1868711583087375495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61938910398e9980800000000000000
+      internalID: -8530229804513652369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_121
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de2189c89c8c3c0800000000000000
+      internalID: -4338996635287491175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_122
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254eff523cd98510800000000000000
+      internalID: 1552013655522821409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_123
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea171193660de80b0800000000000000
+      internalID: -5724408938878635602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_124
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98458913bcc22d900800000000000000
+      internalID: 707677342672639113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Truth Bullets_125
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 9.523804
+        width: 393.66666
+        height: 226.4762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5476c347a8c9c10800000000000000
+      internalID: 2061674961263085020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

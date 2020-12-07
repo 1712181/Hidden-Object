@@ -13,28 +13,51 @@ MonoBehaviour:
   m_Name: Convo-000
   m_EditorClassIdentifier: 
   allLines:
-  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+  - speaker: {fileID: 11400000, guid: 510735498304434498e123dda2d153ba, type: 2}
     dialogue: 'This massive academy dominated prime real estate in central Tokyo.
 
       It''s
       the private academy, Hope''s Peak High School.'
-  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 510735498304434498e123dda2d153ba, type: 2}
     dialogue: 'Academics, sports, art, performing arts...
 
       It gathers super-incredible
       high schoolers from a variety of fields with the intent to level them up. This
       government approved school gets some major perks!'
-  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 510735498304434498e123dda2d153ba, type: 2}
     dialogue: Can a normal guy like me survive in such an awesome school?
-  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 510735498304434498e123dda2d153ba, type: 2}
     dialogue: '"We selected 1 average student via lottery."
 
       I only got selected
       out of sheer luck, huh?'
-  - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
-    dialogue: "Ready to go?\n\t\tMy name is Naegi Makoto and my new school life was
-      about to begin."
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
+  - speaker: {fileID: 11400000, guid: 510735498304434498e123dda2d153ba, type: 2}
+    dialogue: 'Ready to go?
+
+      My name is Naegi Makoto and my new school life
+      was about to begin.'
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: My first step onto campus was supposed to be filled...with hope.
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Wh-What... gives...?
+    imageIntroCharacter: {fileID: 21300000, guid: 922b567726045054ba49a3653a9fd6ae,
+      type: 3}
+    isIntroCharacter: 0

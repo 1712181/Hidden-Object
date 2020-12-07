@@ -15,10 +15,12 @@ MonoBehaviour:
   allLines:
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: What the heck... happened?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "(Chuy\u1EC3n c\u1EA3nh c\u1EEDa ph\xF2ng WC)\n(Ch\u1EA1y video ph\xE1t
       hi\u1EC7n x\xE1c ch\u1EBFt Maizono)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0

@@ -16,7 +16,8 @@ MonoBehaviour:
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "(C\u1EA3nh c\xE1nh c\u1EEDa ph\xF2ng WC c\xF3 t\u1EDD gi\u1EA5y th\xF4ng
       b\xE1o)\n(Th\xF4ng b\xE1o \u0111\u1EBFn t\u1EEB Monokuma)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: -1249090358501354918, guid: 9f719dd159818b84cb6a3a8dc64e1bc2,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: 'All bedrooms are equipped with fully-functioning shower rooms.
@@ -27,58 +28,69 @@ MonoBehaviour:
       Furthermore,
       only the shower rooms in the girls'' rooms can be locked.
 
-      Finally,
-      I have prepared some modest presents for you.
+      Finally, I
+      have prepared some modest presents for you.
 
-      Use your imagination
-      and be creative! Let''s enjoy them!'
-    imageIntroCharacter: {fileID: 0}
+      Use your imagination and
+      be creative! Let''s enjoy them!'
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: He wants us to murder with this stuff?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(sigh)
 
       I could use a shower...'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "(C\u1EA3nh c\xE1nh c\u1EEDa ph\xF2ng WC)\r\nHuh?\r\nDumb door! What
       gives?\r\nIs it locked?"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Boo boo! It isn't locked!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Whoa! When did you get in?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: You sure are careless. You really ought to lock yer door from the inside.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: What are you doing here?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Naegi, yer in serious trouble!
 
       I see yer shower room is the
       only one that has issues with the door!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: You've gotta lift the doorknob up while turnin' it to open the door.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Oh, it worked!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'I can''t believe you got the only bad door! What a riot.
@@ -88,38 +100,45 @@ MonoBehaviour:
 
       But ya sure don''t
       seem lucky to me!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'A job well done!
 
       Well, I''m heading on out.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Naegi, please be sure to lock yer door.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: How could I have "super high school-level luck" when I'm stuck in this
       mess?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(knock knock)
 
       Yes?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Um, uh... This is Maizono.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Maizono?
 
       Uh, it''s so late. Did something happen...?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'It was kind of strange...
@@ -128,63 +147,75 @@ MonoBehaviour:
       to shake and rattle.
 
       It was like someone was trying to break in.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Th-Think it was Monokuma?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: I opened the door to see who it was, but no one was there.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: If it wasn't Monokuma, who was it?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'It''s not like I''m doubting anyone!
 
       But I''m kind of scared...'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'You''ll be fine!
 
       We can''t leave our rooms during the night
       hours.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: "But that was just a promise!\r\nWhat if someone breaks his word?\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Then why don''t you stay in my room tonight?
 
       Won''t that make
       you feel a bit safer?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Huh?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'According to the school rules, we just need to sleep in a private
       room.
 
       They don''t specify who has to sleep where.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: B-But just the two of us in one room is a little...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "S-Sorry! I wasn't thinking! Honest! \nI didn't have anything dirty
       on the mind!"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'No! It''s not as though
@@ -193,40 +224,46 @@ MonoBehaviour:
 
       Um,
       if you don''t mind, could we swap rooms for the night?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Swap rooms? S-Sure...
 
-      If that would make you feel better,
-      Maizono, I''m cool with that.
+      If that would make you feel better, Maizono,
+      I''m cool with that.
 
-      But isn''t that problematic in its own
-      right...?'
-    imageIntroCharacter: {fileID: 0}
+      But isn''t that problematic in its own right...?'
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: I trust you, Naegi!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Uh, ummm... Oh, yeah!
 
-      The door to my shower room can be a
-      bit ornery.'
-    imageIntroCharacter: {fileID: 0}
+      The door to my shower room can be a bit
+      ornery.'
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: It takes a special touch, right?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "(Th\xF4ng b\xE1o 10:00pm)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Don't open the door, even if someone comes over!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'I won''t open it, even if I know it''s you!
@@ -235,9 +272,11 @@ MonoBehaviour:
       defeat the point of swapping rooms, right?
 
       Well, then! Sweet dreams!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Good night...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0

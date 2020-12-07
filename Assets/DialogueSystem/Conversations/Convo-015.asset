@@ -15,100 +15,121 @@ MonoBehaviour:
   allLines:
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Where am I...?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
     dialogue: The gym.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
     dialogue: 'Naegi, you passed out in that room.
 
       Ohgami carried you here.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: That wasn't... a dream?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: How's Maizono?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'Sayaka Maizono is dead.
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: Naegi runs.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: Where are you going?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Maizono... To see Maizono!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: Wait! Calm down, Nae--
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: No! I'm going to--
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'I thoroughly checked her body!
 
       Sayaka Maizono is undeniably
       dead.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Then what are we doing here!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: What the hell are we doing in the gym at a time like this?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: It is not as though we want to be here.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Then why?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: Is-Isn't that a given? Blame Monokuma!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: H-He told us to meet in the gym...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: 'Of course we tried to object.
 
       I said, "How could you say such
       a thing when someone is dead?"'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: "But...\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'Everyone complied with my suggestion.
 
       I recommended that we
       do as Monokuma says for now.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'We are his captives!
@@ -116,22 +137,26 @@ MonoBehaviour:
       We must not blindly oppose our foe.
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: At least, not if we wish to avoid further casualties.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: He... killed Maizono! Monokuma killed her!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Nope! I''d never do somethin'' like that.
 
       Please believe me
       when I say that!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'You see, I would never do something that defeats the point of this
@@ -139,18 +164,21 @@ MonoBehaviour:
 
       Even in safari parks, I was famous for being the...biggest nitpicking
       bear you ever saw when it came to rules!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Who else would have...?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'As if you don''t know!
 
       Whoever murdered Sayaka Maizono is standing
       amongst you!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Huh? What''s the big deal?
@@ -159,7 +187,8 @@ MonoBehaviour:
       hit by a Gatling gun!
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'One of you simply murdered Maizono so you could graduate.
@@ -168,62 +197,74 @@ MonoBehaviour:
       the rule! He didn''t do anything wrong.
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Of course he's lying!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: "No, one of you definitely killed her.\nThe killer in question knows
       that all too well.\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: Come clean! Who killed Sayaka Maizono?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: If-If one of us is the culprit, he'll never confess!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
     dialogue: It-It-It wasn't me!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: Quiet down!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: Hey, assuming that the murderer is amongst us, isn't he able to "graduate"
       now?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'You''re way too optimistic! Devilishly optimistic! Hellishly optimistic!
 
       Honestly,
       we''re just enterin'' the main act!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Now then, allow me to explain the supplemental rules regarding "graduation."
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: '"The killer must not get caught by the other students."'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Yep! Simply committing murder doesn''t cut it!
 
-      You can''t
-      let the other students find out about yer dirty deed!
+      You can''t let
+      the other students find out about yer dirty deed!
 
-      In other words,
-      we must pull off the perfect crime.'
-    imageIntroCharacter: {fileID: 0}
+      In other words, we
+      must pull off the perfect crime.'
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'In order to assess the murder, we will always hold a "classroom trial"
@@ -232,25 +273,28 @@ MonoBehaviour:
       During the
       classroom trial, you will debate over who is guilty.
 
-      If the answer
-      you reach is correct, I will only punish the culprit, who has disturbed the
-      peace.'
-    imageIntroCharacter: {fileID: 0}
+      If the answer you
+      reach is correct, I will only punish the culprit, who has disturbed the peace.'
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'But if you''re wrong, everyone who was innocent will be punished instead!
 
       Those
       are the rules for our classroom trials!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
     dialogue: "Uh, what exactly are these \"punishments\"?\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Simply put, I guess you could call them "executions."
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Get zapped on an electric chair!
@@ -259,11 +303,13 @@ MonoBehaviour:
       gas!
 
       Or your body could get torn apart by one of those hurricane thingies!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: If-If we guess wrong, the rest of us will get executed instead?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Nice! You''re a smart chimpanzee, aren''t ya?
@@ -271,11 +317,12 @@ MonoBehaviour:
       Good job casually
       implyin'' that you aren''t the culprit!
 
-      In short, you guys are the
-      judge and jury!
+      In short, you guys are the judge
+      and jury!
 
       It''s yer job to decide who the killer is!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: adac1b80e72b1ae4fbe04b648334bb99, type: 2}
     dialogue: 'Wait! You''re spewing some crazy crap!
@@ -286,9 +333,10 @@ MonoBehaviour:
       Why the hell do any
       of us have to play detective?!
 
-      Keep me outta this killing game! It
-      doesn''t have anything to do with me!'
-    imageIntroCharacter: {fileID: 0}
+      Keep me outta this killing game! It doesn''t
+      have anything to do with me!'
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'I''m honestly trembling before the power of the overwhelming evil
@@ -296,40 +344,46 @@ MonoBehaviour:
 
       B-But I won''t succumb to evil!
 
-      It''s the
-      Monokuma way to fight to the very end!
+      It''s the Monokuma
+      way to fight to the very end!
 
-      If you wanna get through me,
-      you''ve gotta defeat me first!'
-    imageIntroCharacter: {fileID: 0}
+      If you wanna get through me, you''ve gotta
+      defeat me first!'
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: adac1b80e72b1ae4fbe04b648334bb99, type: 2}
     dialogue: "(\u0110\u1EA1p Monokuma)\nThere. Are ya happy?"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Harming yer principal, in other words, me, is strictly prohibited.
 
       I''ve
       warned you about violating the school rules, haven''t I?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Activate summoning magic!
 
       Save me, Gungnir Spears!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "(Video c\u1EA3nh Enoshima b\u1ECB \u0111\xE2m) \n(Everyone scream)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'I had wanted to avoid as many unnecessary deaths as possible.
 
       But
       I guess I really did need to make an example of someone.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'It''s starting to sink in now, isn''t it? I''m playing for keeps.
@@ -339,22 +393,26 @@ MonoBehaviour:
 
       So, I''ll see ya at the classroom
       trial in a bit!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: She was... an example? That's why he...!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: At the very least, this proves that Junko Enoshima was not the culprit.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: 'Now then, let us move straight to the investigation.
 
       There
       is no point in mourning over the dead forever.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: 'I believe I warned her.
@@ -363,70 +421,84 @@ MonoBehaviour:
       who cannot adapt are the first to die.
 
       She got what she deserved.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'For now, we must prioritize finding the culprit.
 
       Otherwise,
       it will simply lead to everyone''s execution.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: Whoa! What the--?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: "We've got some new pages!\r\nThe Monokuma Files...\n(C\xF3 th\u1EC3
       m\u1EDF s\u1ED5 tay th\xF4ng tin c\xE1i ch\u1EBFt c\u1EE7a Maizono)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: f4427a87aa30ff44ea59087a804a7630, type: 2}
     dialogue: Dang! It gives a detailed report on Miss Sayaka Maizono's cause of
       death!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: Please read over it.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: 'Sayaka Maizono was found dead in...
 
       ..."Makoto Naegi''s private
       room."'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: Hey, Naegi! Were you behind this?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Wait a sec! You've got it wrong.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: How are we mistaken?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'I swapped rooms with Maizono, just for the night!
 
       She was acting
       scared.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: Ya swapped rooms?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
     dialogue: Sounds fishy!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Guys, do you think it's me?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'That''s right. Isn''t it only natural to suspect you?
@@ -436,15 +508,18 @@ MonoBehaviour:
 
       Come along. Let us start
       the game.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: I wish you the best
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: We should begin our own investigations.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(Naegi''s thought)
@@ -453,11 +528,13 @@ MonoBehaviour:
 
       Maizono and
       I know that all too well.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'I have to do something...
 
       I''ve gotta do something...!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0

@@ -15,21 +15,24 @@ MonoBehaviour:
   allLines:
   - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
     dialogue: Is it true that we can't go home? That help isn't coming?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
     dialogue: 'Don''t you worry, Fujisaki!
 
       I''m sure help will be here in
       no time!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
     dialogue: 'It''s been a whole three days since we first got locked up!
 
       Clearly
       the police are on the case by now.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: '(laugh)
@@ -38,34 +41,40 @@ MonoBehaviour:
 
       Honestly,
       if you''re that eager to leave, why don''t you kill someone?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'For members of the "Leisure Generation," you''ve sure got guts!
 
       But
       I''m personally finding this to be a bit boring.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "N-Nothing you say could convince us to kill another!\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'That''s it! I was wondering why there wasn''t a murder when I''ve
       prepared...
 
       ...the perfect place, people, environment, and mystery!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'That''s the deal. I was short one thing!
 
       Bluntly put, you need
       a "motive"!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: As such, I've got somethin' for you in the Multimedia Room!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 9af95c83df5a36a4f92f8d5b31c4ed09,
+      type: 3}
     isIntroCharacter: 0

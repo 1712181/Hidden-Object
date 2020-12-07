@@ -15,11 +15,13 @@ MonoBehaviour:
   allLines:
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: Naegi, there is something I would like to discuss with you.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: It's about Maizono, isn't it?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'Yes.
@@ -30,11 +32,13 @@ MonoBehaviour:
       is an undeniable fact, but what do you think her dying thoughts were?
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: There's no way I'll ever know...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'Even if we cannot ask her, we can still speculate.
@@ -44,11 +48,13 @@ MonoBehaviour:
 
       If
       she did not care what became of you, she would not have left that message.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: But wasn't she just trying to get back at Kuwata for killing her?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'My speculation differs from yours.
@@ -56,36 +62,41 @@ MonoBehaviour:
       I believe... that she was
       hesitant.
 
-      She was hesitant about deceiving you... as well as about
-      killing someone.
+      She was hesitant about deceiving you... as well as about killing
+      someone.
 
       That hesitation is what led to her failure.
 
-      It''s
-      an ironic twist of fate.'
-    imageIntroCharacter: {fileID: 0}
+      It''s an
+      ironic twist of fate.'
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Why are you telling me this?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'Because I am certain you are capable of overcoming this.
 
       You
       are capable of overcoming your friends'' deaths and moving on'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: If you aren't that kind of person, you won't be able to escape from
       this extreme situation.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Overcome my friends'' deaths?
 
       I could never do that...!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'That''s why I will never overcome their deaths.
@@ -95,7 +106,8 @@ MonoBehaviour:
 
       I''ll drag
       them with me forever and ever!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'I''ll drag them as I plow forward!
@@ -105,39 +117,47 @@ MonoBehaviour:
 
       I will drag everyone''s deaths and feelings
       with me when I get out!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'You''ve chosen a path that is far more arduous than overcoming death.
 
       But
       I have high hopes for you.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: 'Actually, I have a question I''d like to ask while I''m here.
 
       How
       did you know that I wanted to talk to you about Maizono when I came in?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: That's because I have ESP.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "M\xE0n h\xECnh den"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Just kidding! I have keen intuition.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: "(Hi\u1EC7n h\xECnh \u1EA3nh 12 ng\u01B0\u1EDDi c\xF2n s\u1ED1ng)\n"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 41ff34f73d09b6342a3d64e625bce23b,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 43e6ef2b99871f545b5a1b27e1c01198, type: 2}
     dialogue: (End chapter)
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a13ae9de7a437664cad63fca9e23bf45,
+      type: 3}
     isIntroCharacter: 0

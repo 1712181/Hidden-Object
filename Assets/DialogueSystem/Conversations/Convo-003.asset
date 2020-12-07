@@ -15,11 +15,13 @@ MonoBehaviour:
   allLines:
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Uh, excuse me..
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 2e267c776a2076249b9eac334a4c8c58, type: 2}
     dialogue: Hey, you another new student?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -28,11 +30,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: Somethin' ain't right about this school.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: edb0b606d921a7240b935c374c5287f5, type: 2}
     dialogue: So there are 15 of us, eh?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -41,13 +45,15 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: edb0b606d921a7240b935c374c5287f5, type: 2}
     dialogue: Think that's all of us?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 128891decb8fb7245a9ee8184dd76da8, type: 2}
     dialogue: 'You!
 
       The instructions said to be here by 8:00 sharp!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -56,11 +62,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: You have absolutely no excuse for being tardy!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b7d82b146f71352418aec706cad153bb, type: 2}
     dialogue: '''Scuse me?! What''re you goin'' on about?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -70,21 +78,25 @@ MonoBehaviour:
   - speaker: {fileID: 11400000, guid: adac1b80e72b1ae4fbe04b648334bb99, type: 2}
     dialogue: Who cares about bein' late when we don't know what the hell is goin'
       on?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: f79c45d7911b5ec41a31e862a8d4c23b, type: 2}
     dialogue: 'Excuse me...
 
       Did you also wake up in a classroom?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Yeah, I was in a classroom...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: f79c45d7911b5ec41a31e862a8d4c23b, type: 2}
     dialogue: I thought so...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -93,14 +105,16 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 6ca847e03d3dbc648a49c823410bfa3d, type: 2}
     dialogue: That's true of everyone...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4995bba5437218f4bbc9c5f50a8c13c6, type: 2}
     dialogue: 'Everyone fell unconscious...
 
       ...and upon awaking, we converged
       in the gym.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -109,11 +123,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: Most peculiar, is it not?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 6fe68e43f1b92e5429773da6d2e6fef8, type: 2}
     dialogue: What's with this place?! Tch!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -122,11 +138,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: It's just like my old juvie.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e17cae19b74ef754bb81b147fa4bced0, type: 2}
     dialogue: Do ya think...we got kidnapped?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -135,11 +153,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
     dialogue: Like, did someone kidnap the flippin' lot of us?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 496a3cd428f0385429ca9a96e04fcef7, type: 2}
     dialogue: I bet this is some sorta special program!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -148,11 +168,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 2f2db67666c5cf744892de29d9b5b2eb, type: 2}
     dialogue: This is a special school and all! Right?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4d775a6252902b34f93765b511fdce9d, type: 2}
     dialogue: '''Tis hard to say.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -161,22 +183,26 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: ddb235e67e34a3a48b28c2a529abcf75, type: 2}
     dialogue: '''Twould be wise to first ascertain the situation.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Yeah...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(Naegi''s thought)
 
       These... are the super high school students
       who got admitted into Hope''s Peak High School'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: de8628991c2966d4cadc16fd6e05112d, type: 2}
     dialogue: He's looking! He's looking right at me!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -185,11 +211,13 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: All because I'm ugly!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 9fe200de386d72845bea510fea7b44ab, type: 2}
     dialogue: He most certainly is an eyesore.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -198,15 +226,18 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: What are you looking at?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Uh, nothing!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: c035354292ba54649be868e8cc2c4edf, type: 2}
     dialogue: Yes?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -215,17 +246,20 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Uh, it's nothing!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: c30e438eb932fdb4fb4dbf8e339eaed4, type: 2}
     dialogue: 'Um, aren''t you Naegi?
 
       We attended the same middle school.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Maizono...?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -234,78 +268,93 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: I'm so glad to find someone I know!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Huh? Wait... Maizono, you actually remember me?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'Yep! How could I forget?
 
       I mean, we went to the same school
       for three years!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'Yeah, but I didn''t think that someone as popular as you...
 
       would
       notice a run-of-the-mill guy like me.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Eh?! You thought I was a snob? I'm shocked!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: I didn't mean it like that...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: I'm just teasing!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Don't pull my leg!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'How long must you fool around?
 
       We have pressing matters to
       attend to!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Like what?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'Why are we in this predicament?
 
       If someone is behind this,
       then who?'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: Aren't we basically trapped in here?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: adac1b80e72b1ae4fbe04b648334bb99, type: 2}
     dialogue: 'And like, where the heck did they hide my stuff?
 
       My cell is
       missing!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Wha--?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: ddb235e67e34a3a48b28c2a529abcf75, type: 2}
     dialogue: Mine, too, is gone. Does this mean that they were taken?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: 'Don''t look so bummed out!
@@ -314,39 +363,48 @@ MonoBehaviour:
       orientation.
 
       That''s what my readin'' says!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
     dialogue: For real? And are they ever right?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: I've got a whoppin' 30% success rate!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 5653a6c0d91f7c04a8cd6c76aa02a687, type: 2}
     dialogue: A-A measly 30%?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 15d628853602148439c1ae91989788c6, type: 2}
     dialogue: Ah! Ah! Mike test! Mike test!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 15d628853602148439c1ae91989788c6, type: 2}
     dialogue: This good? You can hear me, can't you?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 15d628853602148439c1ae91989788c6, type: 2}
     dialogue: Hey, new students! I would like to start the welcoming ceremony now!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 14bf1aba09405cf4889d75e6f27e6be5, type: 2}
     dialogue: See? This is how Hope's Peak High welcomes in the new!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: No, you are mistaken.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 
@@ -355,74 +413,89 @@ MonoBehaviour:
     isIntroCharacter: 1
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: A stuffed animal?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 15d628853602148439c1ae91989788c6, type: 2}
     dialogue: I'm no stuffed animal! I'm Monokuma
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'I''m the principal of this school, making me yer principal!
 
       Nice
       to meet ya!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Well, I'd like to move along, so let's get this ball rollin'!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Stand! Bow! Good morning, punks!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Highly promising high schoolers, just like you guys, are none other
       than the hope of the world!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'In order to protect our wonderful rays of hope, yer expected to carry
       out communal
 
       lives here on campus and nowhere else!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: As for the cutoff period for this communal life...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'There is no such cutoff period!
 
       In other words, yer gonna spend
       the rest of yer lives in here!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Aw, don't worry. The budget is large enough that you'll never go without.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Wait a minute! That isn't the problem.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Are the steel plates in the classrooms and halls meant to keep us in?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: Yup! So you can scream all you want, but no one's gonna come save ya!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: "If what you say is true, that is most disconcerting. \nWe could not
       possibly live here forever."
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: For those of you who wanna leave, I've established a certain rule!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 0}
     dialogue: 'You are free to murder whoever you like. Whee!
@@ -432,11 +505,12 @@ MonoBehaviour:
 
       It''s a simple
       rule, and the only one.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: "(Ch\u1EA1y video c\xE1ch th\u1EE9c gi\u1EBFt ng\u01B0\u1EDDi)"
-    imageIntroCharacter: {fileID: 5817688530955757140, guid: 23ee30d5d9459124b88bbf441532c9c6,
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
       type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
@@ -444,22 +518,26 @@ MonoBehaviour:
 
       Salmon and humans can''t understand
       the excitement...the endorphins are releasing in my body!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Fellow "rays of hope" are thrown into a situation where they must
       kill each other!
 
       It''s so exciting!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 9e6a6af2bd2d0044e9384b38532bd06c, type: 2}
     dialogue: Are you serious?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Why?! Why must we kill each other?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Listen up! From now on, this school is yer home, yer society, and
@@ -467,29 +545,34 @@ MonoBehaviour:
 
       I''m gonna let you kill to yer heart''s content, so kill,
       kill, and kill some more!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: 'Yer takin'' this sick prank too friggin'' far!
 
-      Why you--!
-      I don''t care if you''re a remote control toy or a stuffed animal!
+      Why you--! I
+      don''t care if you''re a remote control toy or a stuffed animal!
 
       I''m
       gonna flippin'' tear you to pieces!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: The school rules state not to harm the principal!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: "What's that sound?\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a273944717cc873448095fafec731ad5, type: 2}
     dialogue: Not good! Throw it!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Tada! I''ll let you off with a warning this time.
@@ -497,23 +580,27 @@ MonoBehaviour:
       But if I
       ever see someone break the school rules again, I will activate another great
       physical punishment!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 65ae8708f2864e9479e7e6aa0a97657b, type: 2}
     dialogue: 'Well, that''s it for the welcoming ceremony.
 
-      Please enjoy
-      an enriching school life filled with gore!'
-    imageIntroCharacter: {fileID: 0}
+      Please enjoy an
+      enriching school life filled with gore!'
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: a01f8ab445828b24b8c95b443776787a, type: 2}
     dialogue: So if we kill someone here, we can leave this facility.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: The issue isn't whether or not this is real, but rather whether someone
       takes what he said seriously.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(Naegi''s thought)
@@ -523,41 +610,50 @@ MonoBehaviour:
       But
       this was not the school of hope I had anticipated when I first arrived, filling
       my heart with expectations for the future.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: It was a school of despair!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "(N\u1EBFu c\xF3 th\u1EC3 - unlock s\u1ED5 tay \u0111i\u1EC7n t\u1EED
       - khi m\u1EDF ra s\u1EBD l\xE0 th\xF4ng tin c\u1EE7a Naegi)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 4c32345a82d874a4eb67374f9edf3bba, type: 2}
     dialogue: Fine, then! Guys, let's search the place over.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: e6570118a9f98d54d804c66c7fc0b34e, type: 2}
     dialogue: 'I will go by myself.
 
       There may already be one in our midst
       who is planning to commit murder.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: Wait, dammit! You can't do whatever the hell you want!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: W-Wait a second! How is fighting amongst ourselves going to help?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: b712cecdc7da04f4ca45a48722c42308, type: 2}
     dialogue: You feedin' me crap? Tryin' to lecture me? Teach me right from wrong?!
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "(Naegi b\u1ECB \u0111\xE1nh)"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: 13eaa8add6c175a43b1035128d7e5c0f,
+      type: 3}
     isIntroCharacter: 0

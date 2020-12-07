@@ -17,7 +17,8 @@ MonoBehaviour:
     dialogue: 'Where am I...?
 
       Maizono!'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a13ae9de7a437664cad63fca9e23bf45,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'Glad you''re okay!
@@ -26,22 +27,26 @@ MonoBehaviour:
       their own room.
 
       I had Ohgami and the others help carry you here.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: What are they doing now?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'After you got hit, everyone split up and began searching the school.
 
       I
       was worried about you, Naegi, so...'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Maizono, th-thank you...
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: '(Naegi''s thought)
@@ -52,50 +57,59 @@ MonoBehaviour:
       I can''t believe someone like her would remember me...
 
 '
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'Of course I remember you. I have ESP.
 
       Just kidding! I have
       keen intuition.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'But I''m really glad you''re here.
 
       It''s nice to have someone
       I know around.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: "Y-Yeah...Up-upsy-daisy.\r"
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: Are you feeling better?
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: 'I''m fine!
 
       Besides, considering the situation, it''s not right
       for me to be the only one lying around.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: "In that case, I'm going to become a super high school-level assistant!\n\n\n\r\n\t\tLet's
       work together to get out of here."
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 339c4217eb449994fb2d3c08cfd2f0a0, type: 2}
     dialogue: 'I''ll be your assistant, Naegi!
 
       Let''s work together to get
       out of here.'
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
   - speaker: {fileID: 11400000, guid: 32cddc2bc17a7b042adb58c38a4299c1, type: 2}
     dialogue: Uh, yeah.
-    imageIntroCharacter: {fileID: 0}
+    imageIntroCharacter: {fileID: 21300000, guid: a32956507dc4cea4dae01b519eb5b8f4,
+      type: 3}
     isIntroCharacter: 0
