@@ -178,9 +178,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 130
-        y: 2858
+        y: 2861
         width: 572
-        height: 572
+        height: 559
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,12 +220,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1668
-        y: 2858
+        y: 2861
         width: 819
-        height: 572
+        height: 559
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 10}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -304,12 +304,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1792
-        y: 2287
+        y: 2291
         width: 572
-        height: 572
+        height: 558
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 9}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
