@@ -58,15 +58,14 @@ public class DialogueManager : MonoBehaviour
         }
 
         isIntroVideo = currentConvo.GetLineByIndex(currentIndex).isIntroCharacter;
+        var imageIntro = currentConvo.GetLineByIndex(currentIndex).imageIntroCharacter;
+        Image img = GameObject.Find("Panel").GetComponent<Image>();
+        img.sprite = imageIntro;
+
         if (isIntroVideo)
         {
             instance.anim.SetBool("isOpen", false);
-            var imageIntro = currentConvo.GetLineByIndex(currentIndex).imageIntroCharacter;
-            Image img = GameObject.Find("Panel").GetComponent<Image>();
-            img.sprite = imageIntro;
             StartCoroutine(ShowImageIntro());
-
-            currentIndex++;
         }
         else
         {
@@ -75,10 +74,8 @@ public class DialogueManager : MonoBehaviour
             speakerName.text = currentConvo.GetLineByIndex(currentIndex).speaker.GetName();
             dialogue.text = currentConvo.GetLineByIndex(currentIndex).dialogue;
             speakerSprite.sprite = currentConvo.GetLineByIndex(currentIndex).speaker.GetSprite();
-
-            currentIndex++;
         }
-
+        currentIndex++;
     }
 
     IEnumerator ShowImageIntro()
